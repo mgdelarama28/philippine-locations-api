@@ -16,3 +16,6 @@ use Illuminate\Http\Request;
 Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
+
+Route::get('/v1/regions', 'API\\RegionController@index')->name('api.regions.index');
+Route::get('/v1/regions/{code}', 'API\\RegionController@show')->name('api.regions.show');
