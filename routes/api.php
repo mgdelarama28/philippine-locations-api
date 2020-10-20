@@ -19,3 +19,7 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 
 Route::get('/v1/regions', 'API\\RegionController@index')->name('api.regions.index');
 Route::get('/v1/regions/{code}', 'API\\RegionController@show')->name('api.regions.show');
+Route::get('/v1/regions/{code}/locations', 'API\\RegionController@locations')->name('api.regions.locations');
+
+Route::get('/v1/locations', 'API\\LocationController@index')->name('api.locations.index');
+Route::get('/v1/locations/q', 'API\\LocationController@fetch')->name('api.locations.fetch');

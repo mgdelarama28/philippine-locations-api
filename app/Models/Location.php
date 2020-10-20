@@ -4,7 +4,7 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
-class Region extends Model
+class Location extends Model
 {
     protected $guarded = [];
 
@@ -12,9 +12,9 @@ class Region extends Model
      * 
      * Relationships
      * 
-     */
-    public function locations()
+    */
+    public function region()
     {
-        return $this->hasMany(Location::class);
+        return $this->belongsTo(Region::class);
     }
 }
