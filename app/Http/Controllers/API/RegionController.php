@@ -16,7 +16,7 @@ class RegionController extends Controller {
 
     public function show($code)
     {
-        $region = Region::where('code', $code)->first();
+        $region = Region::where('code', strtoupper($code))->first();
 
         if ($region)
         {
@@ -30,7 +30,7 @@ class RegionController extends Controller {
 
     public function locations($code)
     {
-        $region = Region::where('code', $code)->first();
+        $region = Region::where('code', strtoupper($code))->first();
         $locations = $region->locations;
 
         return new LocationCollection($locations);
