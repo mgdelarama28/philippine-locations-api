@@ -1,0 +1,2635 @@
+region_id|name|type|barangay_number|district_number|district_name|zip_code
+1|Agoo, La Union|Municipality||||2504
+1|Aringay, La Union|Municipality||||2503
+1|Bacnotan, La Union|Municipality||||2515
+1|Bagulin, La Union|Municipality||||2512
+1|Balaoan, La Union|Municipality||||2517
+1|Bangar, La Union|Municipality||||2519
+1|Bauang, La Union|Municipality||||2501
+1|Burgos, La Union|Municipality||||2510
+1|Caba, La Union|Municipality||||2502
+1|Damortis, La Union|Municipality||||2507
+1|Luna, La Union|Municipality||||2518
+1|Naguilian, La Union|Municipality||||2511
+1|Pugo, La Union|Municipality||||2508
+1|Rosario, La Union|Municipality||||2506
+1|San Fernando, La Union|City||||2500
+1|San Gabriel, La Union|Municipality||||2513
+1|San Juan, La Union|Municipality||||2514
+1|Santol, La Union|Municipality||||2516
+1|Sto. Tomas, La Union|Municipality||||2505
+1|Sudepen, La Union|Municipality||||2520
+1|Tubao, La Union|Municipality||||2509
+1|Adams, Ilocos Norte|Municipality||||2922
+1|Bacarra, Ilocos Norte|Municipality||||2916
+1|Badoc, Ilocos Norte|Municipality||||2904
+1|Bangui, Ilocos Norte|Municipality||||2920
+1|Batac, Ilocos Norte|City||||2906
+1|Burgos, Ilocos Norte|Municipality||||2918
+1|Carasi, Ilocos Norte|Municipality||||2911
+1|Currimao, Ilocos Norte|Municipality||||2903
+1|Dingras, Ilocos Norte|Municipality||||2913
+1|Dumalneg, Ilocos Norte|Municipality||||2921
+1|Espiritu, Ilocos Norte|Municipality||||2908
+1|Laoag City, Ilocos Norte|City||||2900
+1|Marcos, Ilocos Norte|Municipality||||2907
+1|Nueva Era, Ilocos Norte|Municipality||||2909
+1|Pagudpud, Ilocos Norte|Municipality||||2919
+1|Paoay, Ilocos Norte|Municipality||||2902
+1|Pasuquin, Ilocos Norte|Municipality||||2917
+1|Piddig, Ilocos Norte|Municipality||||2912
+1|Pinili, Ilocos Norte|Municipality||||2905
+1|San Nicolas, Ilocos Norte|Municipality||||2901
+1|Sarrat, Ilocos Norte|Municipality||||2914
+1|Solsona, Ilocos Norte|Municipality||||2910
+1|Vintar, Ilocos Norte|Municipality||||2915
+1|Alilem, Ilocos Sur|Municipality||||2716
+1|Banayoyo, Ilocos Sur|Municipality||||2708
+1|Bantay, Ilocos Sur|Municipality||||2727
+1|Burgos, Ilocos Sur|Municipality||||2724
+1|Cabugao, Ilocos Sur|Municipality||||2732
+1|Candon, Ilocos Sur|City||||2710
+1|Caoayan, Ilocos Sur|Municipality||||2702
+1|Cervantes, Ilocos Sur|Municipality||||2718
+1|Galimuyod, Ilocos Sur|Municipality||||2709
+1|Gregorio del Pilar, Ilocos Sur|Municipality||||2720
+1|Lidlida, Ilocos Sur|Municipality||||2723
+1|Magsingkil, Ilocos Sur|Municipality||||2730
+1|Nagbukel, Ilocos Sur|Municipality||||2725
+1|Narvacan, Ilocos Sur|Municipality||||2704
+1|Quirino, Ilocos Sur|Municipality||||2721
+1|Salcedo, Ilocos Sur|Municipality||||2711
+1|San Emilio, Ilocos Sur|Municipality||||2722
+1|San Esteban, Ilocos Sur|Municipality||||2706
+1|San Ildefonso, Ilocos Sur|Municipality||||2728
+1|San Juan, Ilocos Sur|Municipality||||2731
+1|San Vicente, Ilocos Sur|Municipality||||2726
+1|Santa, Ilocos Sur|Municipality||||2703
+1|Santa Catalina, Ilocos Sur|Municipality||||2701
+1|Santa Cruz, Ilocos Sur|Municipality||||2713
+1|Santa Lucia, Ilocos Sur|Municipality||||2712
+1|Santa Maria, Ilocos Sur|Municipality||||2705
+1|Santiago, Ilocos Sur|Municipality||||2707
+1|Santo Domingo, Ilocos Sur|Municipality||||2729
+1|Sicay, Ilocos Sur|Municipality||||2719
+1|Sinait, Ilocos Sur|Municipality||||2733
+1|Sugpon, Ilocos Sur|Municipality||||2717
+1|Suyo, Ilocos Sur|Municipality||||2715
+1|Tagudin, Ilocos Sur|Municipality||||2714
+1|Vigan, Ilocos Sur|City||||2700
+1|Agno, Pangasinan|Municipality||||2408
+1|aguilar, Pangasinan|Municipality||||2415
+1|Alaminos, Pangasinan|City||||2404
+1|Alcala, Pangasinan|Municipality||||2425
+1|Anda, Pangasinan|Municipality||||2405
+1|Asingan, Pangasinan|Municipality||||2439
+1|Balungao, Pangasinan|Municipality||||2442
+1|Bani, Pangasinan|Municipality||||2407
+1|Basista, Pangasinan|Municipality||||2422
+1|Bautista, Pangasinan|Municipality||||2424
+1|Bayambang, Pangasinan|Municipality||||2423
+1|Binalonan, Pangasinan|Municipality||||2436
+1|Binmaley, Pangasinan|Municipality||||2417
+1|Bolinao, Pangasinan|Municipality||||2406
+1|Bugallon, Pangasinan|Municipality||||2416
+1|Burgos, Pangasinan|Municipality||||2410
+1|Calasiao, Pangasinan|Municipality||||2418
+1|Dagupan City, Pangasinan|City||||2400
+1|Dasol, Pangasinan|Municipality||||2411
+1|Infanta, Pangasinan|Municipality||||2412
+1|Labrador, Pangasinan|Municipality||||2402
+1|Laoac, Pangasinan|Municipality||||2437
+1|Lingayen, Pangasinan|Municipality||||2401
+1|Mabini, Pangasinan|Municipality||||2409
+1|Malasiqui, Pangasinan|Municipality||||2421
+1|Manaoag, Pangasinan|Municipality||||2430
+1|mangaldan, Pangasinan|Municipality||||2432
+1|Mangatarem, Pangasinan|Municipality||||2413
+1|Mapandan, Pangasinan|Municipality||||2429
+1|Natividad, Pangasinan|Municipality||||2446
+1|Pozorrubio, Pangasinan|Municipality||||2435
+1|Riosales, Pangasinan|Municipality||||2441
+1|San Carlos City, Pangasinan|City||||2420
+1|San Fabian, Pangasinan|Municipality||||2433
+1|San Jacinto, Pangasinan|Municipality||||2431
+1|San Manuel, Pangasinan|Municipality||||2438
+1|San Nicolas, Pangasinan|Municipality||||2447
+1|San Quintin, Pangasinan|Municipality||||2444
+1|Sison, Pangasinan|Municipality||||2434
+1|Sta. Barbara, Pangasinan|Municipality||||2419
+1|Sta. Maria, Pangasinan|Municipality||||2440
+1|Sto. Tomas, Pangasinan|Municipality||||2426
+1|Sual, Pangasinan|Municipality||||2403
+1|Tayug, Pangasinan|Municipality||||2445
+1|Umingan, Pangasinan|Municipality||||2443
+1|Urbiztondo, Pangasinan|Municipality||||2414
+1|Urdaneta, Pangasinan|City||||2428
+1|Villasis, Pangasinan|Municipality||||2427
+2|Basco, Batanes|Municipality||||3900
+2|Itbayat, Batanes|Municipality||||3905
+2|Ivana, Batanes|Municipality||||3902
+2|Mahatao, Batanes|Municipality||||3901
+2|Sabtang, Batanes|Municipality||||3904
+2|Uyugan, Batanes|Municipality||||3903
+2|Abulog, Cagayan|Municipality||||3515
+2|Alcala, Cagayan|Municipality||||3507
+2|Allacapan, Cagayan|Municipality||||3523
+2|Amulung, Cagayan|Municipality||||3505
+2|Aparri, Cagayan|Municipality||||3515
+2|Baggao, Cagayan|Municipality||||3506
+2|Ballesteros, Cagayan|Municipality||||3516
+2|Buguey, Cagayan|Municipality||||3511
+2|Calayan, Cagayan|Municipality||||3520
+2|Camalaniugan, Cagayan|Municipality||||3510
+2|Claveria, Cagayan|Municipality||||3519
+2|Enrile, Cagayan|Municipality||||3501
+2|Gattaran, Cagayan|Municipality||||3508
+2|Gonzaga, Cagayan|Municipality||||3513
+2|Iguig, Cagayan|Municipality||||3504
+2|Lal-lo, Cagayan|Municipality||||3509
+2|Lasam, Cagayan|Municipality||||3524
+2|Pamplona, Cagayan|Municipality||||3522
+2|Peñablanca, Cagayan|Municipality||||3502
+2|Piat, Cagayan|Municipality||||3527
+2|Rizal, Cagayan|Municipality||||3526
+2|Sanchez Mira, Cagayan|Municipality||||3518
+2|Solana, Cagayan|Municipality||||3503
+2|Sta.Ana, Cagayan|Municipality||||3514
+2|Sta.Praxedes, Cagayan|Municipality||||3521
+2|Sta.Teresita, Cagayan|Municipality||||3512
+2|Sto.Niño, Cagayan|Municipality||||3525
+2|Tuao, Cagayan|Municipality||||3528
+2|Tuguegarao, Cagayan|City||||3500
+2|Alicia, Isabela|Municipality||||3306
+2|Angadanan, Isabela|Municipality||||3307
+2|Aurora, Isabela|Municipality||||3316
+2|Benito Soliven, Isabela|Municipality||||3331
+2|Burgos, Isabela|Municipality||||3322
+2|Cabagan, Isabela|Municipality||||3328
+2|Cabatuan, Isabela|Municipality||||3315
+2|Cauayan, Isabela|City||||3305
+2|Cordon, Isabela|Municipality||||3312
+2|Delfin Albano, Isabela|Municipality||||3326
+2|Dinapigui, Isabela|Municipality||||3336
+2|Divilacan, Isabela|Municipality||||3335
+2|Echague, Isabela|Municipality||||3309
+2|Gamu, Isabela|Municipality||||3301
+2|Ilagan, Isabela|City||||3330
+2|Jones, Isabela|Municipality||||3313
+2|Luna, Isabela|Municipality||||3304
+2|Maconacon, Isabela|Municipality||||3333
+2|Mallig, Isabela|Municipality||||3323
+2|Naguillan, Isabela|Municipality||||3302
+2|Palanan, Isabela|Municipality||||3334
+2|Quezon, Isabela|Municipality||||3324
+2|Quirino, Isabela|Municipality||||3321
+2|Ramon, Isabela|Municipality||||3319
+2|Reina Mercedes, Isabela|Municipality||||3303
+2|Roxas, Isabela|Municipality||||3320
+2|San Agustin, Isabela|Municipality||||3314
+2|San Guillermo, Isabela|Municipality||||3308
+2|San Isidro, Isabela|Municipality||||3310
+2|San Mariano, Isabela|Municipality||||3332
+2|San Mateo, Isabela|Municipality||||3318
+2|San Miguel (Callang), Isabela|Municipality||||3317
+2|San Pablo, Isabela|Municipality||||3329
+2|Santiago, Isabela|City||||3311
+2|Sta. Maria, Isabela|Municipality||||3330
+2|Sto. Tomas, Isabela|Municipality||||3327
+2|Tamauini, Isabela|Municipality||||3325
+2|Alfonso Castañeda, Nueva Vizcaya|Municipality||||3714
+2|Ambaguio, Nueva Vizcaya|Municipality||||3701
+2|Aritao, Nueva Vizcaya|Municipality||||3704
+2|Bagabag, Nueva Vizcaya|Municipality||||3711
+2|Bambang, Nueva Vizcaya|Municipality||||3702
+2|Bayombong, Nueva Vizcaya|Municipality||||3700
+2|Diadi, Nueva Vizcaya|Municipality||||3712
+2|Dupax del Norte, Nueva Vizcaya|Municipality||||3706
+2|Dupax del Sur, Nueva Vizcaya|Municipality||||3707
+2|kasibu, Nueva Vizcaya|Municipality||||3703
+2|Kayapa, Nueva Vizcaya|Municipality||||3708
+2|quezon, Nueva Vizcaya|Municipality||||3713
+2|Solano, Nueva Vizcaya|Municipality||||3709
+2|Sta. Fe (Imugan), Nueva Vizcaya|Municipality||||3705
+2|Villa Verde (Ibung), Nueva Vizcaya|Municipality||||3710
+2|Aglipay, Quirino|Municipality||||3403
+2|Cabarriguis, Quirino|Municipality||||3400
+2|Diffun, Quirino|Municipality||||3401
+2|Maddela, Quirino|Municipality||||3404
+2|Nagtipunan (Abbag), Quirino|Municipality||||3405
+2|Saguday, Quirino|Municipality||||3402
+3|Baler, Aurora|Municipality||||3200
+3|Casiguran, Aurora|Municipality||||3204
+3|Dilasag, Aurora|Municipality||||3205
+3|Dinalungan, Aurora|Municipality||||3206
+3|Dingalan, Aurora|Municipality||||3207
+3|Dipaculao, Aurora|Municipality||||3203
+3|Maria, Aurora, Aurora|Municipality||||3202
+3|San Luis, Aurora|Municipality||||3201
+3|Abucay, Bataan|Municipality||||2114
+3|Bagac, Bataan|Municipality||||2107
+3|Balanga, Bataan|City||||2100
+3|Bataan Export Processing Zone, Bataan|Municipality||||2106
+3|Dinalupihan, Bataan|Municipality||||2110
+3|Hermosa, Bataan|Municipality||||2111
+3|Lamao, Bataan|Municipality||||2104
+3|Limay, Bataan|Municipality||||2103
+3|Mariveles, Bataan|Municipality||||2105
+3|Morong, Bataan|Municipality||||2108
+3|Orani, Bataan|Municipality||||2112
+3|Orion, Bataan|Municipality||||2102
+3|Pilar, Bataan|Municipality||||2101
+3|Refugee Processing Center, Bataan|Municipality||||2109
+3|Samal, Bataan|Municipality||||2113
+3|Angat, Bulacan|Municipality||||3012
+3|Balagtas, Bulacan|Municipality||||3016
+3|Baliuag, Bulacan|Municipality||||3006
+3|Bocaue, Bulacan|Municipality||||3018
+3|Bulacan, Bulacan|Municipality||||3017
+3|Bustos, Bulacan|Municipality||||3007
+3|Calumpit, Bulacan|Municipality||||3003
+3|Doña Remedios Trinidad, Bulacan|Municipality||||3009
+3|Guiguinto, Bulacan|Municipality||||3015
+3|Hagonoy, Bulacan|Municipality||||3002
+3|Malolos, Bulacan|City||||3000
+3|Marilao, Bulacan|Municipality||||3019
+3|Meycauayan, Bulacan|City||||3020
+3|Norzagaray, Bulacan|Municipality||||3013
+3|Obando, Bulacan|Municipality||||3021
+3|Pandi, Bulacan|Municipality||||3014
+3|Paombong, Bulacan|Municipality||||3001
+3|Plaridel, Bulacan|Municipality||||3004
+3|Pulilan, Bulacan|Municipality||||3005
+3|San Ildefonso, Bulacan|Municipality||||3010
+3|San Jose Del Monte, Bulacan|City||||3023
+3|San Miguel, Bulacan|Municipality||||3011
+3|San Rafael, Bulacan|Municipality||||3008
+3|Sapang Palay, Bulacan|Municipality||||3024
+3|Sta. Maria, Bulacan|Municipality||||3022
+3|Aliaga, Nueva Ecija|Municipality||||3111
+3|Bongabon, Nueva Ecija|Municipality||||3128
+3|Cabanatuan City, Nueva Ecija|City||||3100
+3|Cabiao, Nueva Ecija|Municipality||||3107
+3|Carrangalan, Nueva Ecija|Municipality||||3123
+3|Central Luzon State University, Nueva Ecija|Municipality||||3120
+3|Cuyapo, Nueva Ecija|Municipality||||3117
+3|Fort Magsaysay, Nueva Ecija|Municipality||||3130
+3|Gabaldon, Nueva Ecija|Municipality||||3131
+3|Gapan, Nueva Ecija|City||||3105
+3|Gen. M. Natividad, Nueva Ecija|Municipality||||3125
+3|Gen. Tinio, Nueva Ecija|Municipality||||3104
+3|Guimba, Nueva Ecija|Municipality||||3115
+3|Jaen, Nueva Ecija|Municipality||||3109
+3|Laur, Nueva Ecija|Municipality||||3129
+3|Licab, Nueva Ecija|Municipality||||3112
+3|Llanera, Nueva Ecija|Municipality||||3126
+3|Lupao, Nueva Ecija|Municipality||||3122
+3|Muñoz, Nueva Ecija|City||||3119
+3|Nampicuan, Nueva Ecija|Municipality||||3116
+3|Palayan City, Nueva Ecija|City||||3132
+3|Pantabangan, Nueva Ecija|Municipality||||3124
+3|Peñaranda, Nueva Ecija|Municipality||||3103
+3|Quezon, Nueva Ecija|Municipality||||3113
+3|Rizal, Nueva Ecija|Municipality||||3127
+3|San antonio, Nueva Ecija|Municipality||||3108
+3|San Isidro, Nueva Ecija|Municipality||||3106
+3|San Jose City, Nueva Ecija|City||||3121
+3|San Leonardo, Nueva Ecija|Municipality||||3102
+3|Sta. Rosa, Nueva Ecija|Municipality||||3101
+3|Sto. Domingo, Nueva Ecija|Municipality||||3133
+3|Talavera, Nueva Ecija|Municipality||||3114
+3|Talugtog, Nueva Ecija|Municipality||||3118
+3|Zaragoza, Nueva Ecija|Municipality||||3110
+3|Angeles City, Pampanga|City||||2009
+3|Apalit, Pampanga|Municipality||||2016
+3|Arayat, Pampanga|Municipality||||2012
+3|Bacolor, Pampanga|Municipality||||2001
+3|Basa airbase, Pampanga|Municipality||||2007
+3|Candaba, Pampanga|Municipality||||2013
+3|Floridablanca, Pampanga|Municipality||||2006
+3|Guagua, Pampanga|Municipality||||2003
+3|Lubao, Pampanga|Municipality||||2005
+3|Mabalacat, Pampanga|City||||2010
+3|Macabebe, Pampanga|Municipality||||2018
+3|Magalang, Pampanga|Municipality||||2011
+3|Masantol, Pampanga|Municipality||||2017
+3|Mexico, Pampanga|Municipality||||2021
+3|Minalin, Pampanga|Municipality||||2019
+3|Porac, Pampanga|Municipality||||2008
+3|San Fernando, Pampanga|City||||2000
+3|San Luis, Pampanga|Municipality||||2014
+3|San simon, Pampanga|Municipality||||2015
+3|Sasmuan, Pampanga|Municipality||||2004
+3|Sta.Ana, Pampanga|Municipality||||2022
+3|Sta.Rita, Pampanga|Municipality||||2002
+3|Sto.Tomas, Pampanga|Municipality||||2020
+3|Anao, Tarlac|Municipality||||2310
+3|Bamnab, Tarlac|Municipality||||2317
+3|Camiling, Tarlac|Municipality||||2306
+3|Capas, Tarlac|Municipality||||2315
+3|Concepcion, Tarlac|Municipality||||2316
+3|Gerona, Tarlac|Municipality||||2302
+3|La Paz, Tarlac|Municipality||||2314
+3|Mayantoc, Tarlac|Municipality||||2304
+3|Moncada, Tarlac|Municipality||||2308
+3|Paniqui, Tarlac|Municipality||||2307
+3|Pura, Tarlac|Municipality||||2312
+3|Ramos, Tarlac|Municipality||||2311
+3|San Clemente, Tarlac|Municipality||||2305
+3|San Manuel, Tarlac|Municipality||||2309
+3|San Miguel, Tarlac|Municipality||||2301
+3|Sta. Ignacia, Tarlac|Municipality||||2303
+3|Tarlac, Tarlac|City||||2300
+3|Victoria, Tarlac|Municipality||||2313
+3|Botolan, Zambales|Municipality||||2202
+3|Cabangan, Zambales|Municipality||||2203
+3|Candelaria, Zambales|Municipality||||2212
+3|Castillejos, Zambales|Municipality||||2208
+3|Iba, Zambales|Municipality||||2201
+3|Masinloc, Zambales|Municipality||||2211
+3|Olongapo City, Zambales|City||||2200
+3|Palauig, Zambales|Municipality||||2210
+3|San Antonio, Zambales|Municipality||||2206
+3|San Felipi, Zambales|Municipality||||2204
+3|San Marcelino, Zambales|Municipality||||2207
+3|San Narciso, Zambales|Municipality||||2205
+3|Sta. Cruz, Zambales|Municipality||||2213
+3|Subic, Zambales|Municipality||||2209
+4|Agoncillo, Batangas|Municipality||||4211
+4|Alitagtag, Batangas|Municipality||||4205
+4|Balayan, Batangas|Municipality||||4213
+4|Balete, Batangas|Municipality||||4219
+4|Batangas City, Batangas|City||||4200
+4|Bauan, Batangas|Municipality||||4201
+4|Calaca, Batangas|Municipality||||4212
+4|Calatagan, Batangas|Municipality||||4215
+4|Cuenca, Batangas|Municipality||||4222
+4|Fernando Airbase, Batangas|Municipality||||4218
+4|Ibaan, Batangas|Municipality||||4230
+4|Laurel, Batangas|Municipality||||4221
+4|Lemery, Batangas|Municipality||||4209
+4|Lian, Batangas|Municipality||||4216
+4|Lipa City, Batangas|City||||4217
+4|Lobo, Batangas|Municipality||||4229
+4|Mabini, Batangas|Municipality||||4202
+4|Malvar, Batangas|Municipality||||4233
+4|Mataas na Kahoy, Batangas|Municipality||||4223
+4|Nasugbu, Batangas|Municipality||||4231
+4|Padre Garcia, Batangas|Municipality||||4224
+4|Rosario, Batangas|Municipality||||4225
+4|San Jose, Batangas|Municipality||||4227
+4|San Juan, Batangas|Municipality||||4226
+4|San Luis, Batangas|Municipality||||4210
+4|San Nicolas, Batangas|Municipality||||4207
+4|San Pascual, Batangas|Municipality||||4204
+4|Sta.Teresita, Batangas|Municipality||||4206
+4|Sto.Tomas, Batangas|Municipality||||4234
+4|Taal, Batangas|Municipality||||4208
+4|Talisay, Batangas|Municipality||||4220
+4|Tanauan, Batangas|Municipality||||4232
+4|Taysan, Batangas|Municipality||||4228
+4|Tingloy, Batangas|Municipality||||4203
+4|Uy, Batangas|Municipality||||4214
+4|Alfonso, Cavite Province|Municipality||||4123
+4|Amadeo, Cavite|Municipality||||4119
+4|Bacoor, Cavite|City||||4102
+4|Carmona, Cavite|Municipality||||4116
+4|Cavite City, Cavite|City||||4100
+4|Cavite Naval Base, Cavite|Municipality||||4101
+4|Corregidor, Cavite|Municipality||||4125
+4|Dasmarinas, Cavite|City||||4114
+4|Dasmarinas, Cavite|City||||4115
+4|Gen.Aguinaldo (Bailen), Cavite|Municipality||||4124
+4|Gen.Mariano Alvarez, Cavite|Municipality||||4117
+4|Gen.Trias, Cavite|City||||4107
+4|Imus, Cavite|City||||4103
+4|Indang, Cavite|Municipality||||4122
+4|Kawit, Cavite|Municipality||||4104
+4|Magallanes, Cavite|Municipality||||4113
+4|Maragondon, Cavite|Municipality||||4112
+4|Mendez, Cavite|Municipality||||4121
+4|Naic, Cavite|Municipality||||4110
+4|Noveleta, Cavite|Municipality||||4105
+4|Resettlement Area, Cavite|Municipality||||4115
+4|Rosario, Cavite|Municipality||||4106
+4|Silang, Cavite|Municipality||||4118
+4|Tagaytay, Cavite|City||||4120
+4|Tanza, Cavite|Municipality||||4108
+4|Ternate, Cavite|Municipality||||4111
+4|Trece Martirez City, Cavite|City||||4109
+4|Alaminos, Laguna|Municipality||||4001
+4|Bay, Laguna|Municipality||||4033
+4|Biñan, Laguna|Municipality||||4024
+4|Botocan, Laguna|Municipality||||4006
+4|Cabuyao, Laguna|Municipality||||4025
+4|Calamba, Laguna|Municipality||||4027
+4|Caluan, Laguna|Municipality||||4012
+4|Camp Vicente Lim, Laguna|Municipality||||4029
+4|Canlubang, Laguna|Municipality||||4028
+4|Cavinti, Laguna|Municipality||||4013
+4|College Los Baños, Laguna|Municipality||||4031
+4|Famy, Laguna|Municipality||||4021
+4|Kalayaan, Laguna|Municipality||||4015
+4|Liliw, Laguna|Municipality||||4004
+4|Los Baños, Laguna|Municipality||||4030
+4|Luisiana, Laguna|Municipality||||4032
+4|Lumban, Laguna|Municipality||||4014
+4|Mabitac, Laguna|Municipality||||4020
+4|Magdalena, Laguna|Municipality||||4007
+4|Majayjay, Laguna|Municipality||||4005
+4|Nagcarlan, Laguna|Municipality||||4002
+4|Paete, Laguna|Municipality||||4016
+4|Pagsanjan, Laguna|Municipality||||4008
+4|Pakil, Laguna|Municipality||||4017
+4|Pangil, Laguna|Municipality||||4018
+4|Pila, Laguna|Municipality||||4010
+4|Rizal, Laguna|Municipality||||4003
+4|San Pablo City, Laguna|City||||4000
+4|San Pedro, Laguna|Municipality||||4023
+4|Siniloan, Laguna|Municipality||||4019
+4|Sta.Cruz, Laguna|Municipality||||4009
+4|Sta.maria, Laguna|Municipality||||4022
+4|Sta.Rosa, Laguna|Municipality||||4026
+4|Victoria, Laguna|Municipality||||4011
+4|Agbangan, Quezon|Municipality||||4302
+4|Alabat, Quezon|Municipality||||4333
+4|Atimonan, Quezon|Municipality||||4331
+4|Burdeos, Quezon|Municipality||||4340
+4|Calauag, Quezon|Municipality||||4318
+4|Candelaria, Quezon|Municipality||||4323
+4|Catanuan, Quezon|Municipality||||4311
+4|Dolores, Quezon|Municipality||||4326
+4|General Luna, Quezon|Municipality||||4310
+4|General Nakar, Quezon|Municipality||||4338
+4|Guinayangan, Quezon|Municipality||||4319
+4|Gumaca, Quezon|Municipality||||4307
+4|Hondagua, Quezon|Municipality||||4317
+4|Infanta, Quezon|Municipality||||4336
+4|Jomalig, Quezon|Municipality||||4342
+4|Lopez, Quezon|Municipality||||4316
+4|Lucban, Quezon|Municipality||||4328
+4|Lucena City, Quezon|City||||4301
+4|Macalelon, Quezon|Municipality||||4309
+4|Mauban, Quezon|Municipality||||4330
+4|Mulanay, Quezon|Municipality||||4312
+4|Padre Burgos, Quezon|Municipality||||4303
+4|Pagbilao, Quezon|Municipality||||4302
+4|Panukulan, Quezon|Municipality||||4337
+4|Patnanongan, Quezon|Municipality||||4341
+4|Perez, Quezon|Municipality||||4334
+4|Pitogo, Quezon|Municipality||||4308
+4|Plaridel, Quezon|Municipality||||4306
+4|Polilio, Quezon|Municipality||||4339
+4|Quezon, Quezon|Municipality||||4332
+4|Quezon Capitol, Quezon|Municipality||||4300
+4|Real, Quezon|Municipality||||4335
+4|Sampaloc, Quezon|Municipality||||4329
+4|San Andres, Quezon|Municipality||||4314
+4|San Antonio, Quezon|Municipality||||4324
+4|San Francisco, Quezon|Municipality||||4315
+4|San Narciso, Quezon|Municipality||||4313
+4|Sariaya, Quezon|Municipality||||4322
+4|Tagkawayan, Quezon|Municipality||||4321
+4|Tayabas, Quezon|Municipality||||4327
+4|Tiaong, Quezon|Municipality||||4325
+4|Unisan, Quezon|Municipality||||4305
+4|Buenavista, Quezon|Municipality||||4320
+4|Angono, Rizal|Municipality||||1930
+4|Antipolo, Rizal|City||||1870
+4|Baras, Rizal|Municipality||||1970
+4|Binagonan, Rizal|Municipality||||1940
+4|Cainta, Rizal|Municipality||||1900
+4|Cardona, Rizal|Municipality||||1950
+4|Jala-Jala, Rizal|Municipality||||1990
+4|Montalban (Rodriguez), Rizal|Municipality||||1860
+4|Morong, Rizal|Municipality||||1960
+4|Pilillia, Rizal|Municipality||||1910
+4|San Mateo, Rizal|Municipality||||1850
+4|Tanay, Rizal|Municipality||||1980
+4|Taytay, Rizal|Municipality||||1920
+4|Teresa, Rizal|Municipality||||1880
+5|Boac, Marinduque|Municipality||||4900
+5|Buenavista, Marinduque|Municipality||||4904
+5|Gasan, Marinduque|Municipality||||4905
+5|Maogpog, Marinduque|Municipality||||4901
+5|Sta. Cruz, Marinduque|Municipality||||4902
+5|Torrijos, Marinduque|Municipality||||4903
+5|Abra de Ilog, Occidental Mindoro|Municipality||||5108
+5|Calintaan, Occidental Mindoro|Municipality||||5102
+5|Looc, Occidental Mindoro|Municipality||||5111
+5|Lubang, Occidental Mindoro|Municipality||||5109
+5|Magsaysay, Occidental Mindoro|Municipality||||5101
+5|Mamburao, Occidental Mindoro|Municipality||||5106
+5|Palauan, Occidental Mindoro|Municipality||||5107
+5|Rizal, Occidental Mindoro|Municipality||||5103
+5|Sablayan, Occidental Mindoro|Municipality||||5104
+5|San Jose, Occidental Mindoro|Municipality||||5100
+5|Sta. cruz, Occidental Mindoro|Municipality||||5105
+5|Tilik, Occidental Mindoro|Municipality||||5110
+5|Baco, Oriental Mindoro|Municipality||||5201
+5|Bansud, Oriental Mindoro|Municipality||||5210
+5|Ongabon, Oriental Mindoro|Municipality||||5211
+5|Bulalacao, Oriental Mindoro|Municipality||||5214
+5|Calapan, Oriental Mindoro|Municipality||||5200
+5|Gloria, Oriental Mindoro|Municipality||||5209
+5|Mansalay, Oriental Mindoro|Municipality||||5213
+5|Naujan, Oriental Mindoro|Municipality||||5204
+5|Pinamalayan, Oriental Mindoro|Municipality||||5208
+5|Pola, Oriental Mindoro|Municipality||||5206
+5|Puerto Galera, Oriental Mindoro|Municipality||||5203
+5|Roxas, Oriental Mindoro|Municipality||||5212
+5|San Teodoro, Oriental Mindoro|Municipality||||5202
+5|Soccorro, Oriental Mindoro|Municipality||||5207
+5|Victoria, Oriental Mindoro|Municipality||||5205
+5|Aborlan, Palawan|Municipality||||5302
+5|Agutaya, Palawan|Municipality||||5320
+5|Araceli, Palawan|Municipality||||5311
+5|Balabac, Palawan|Municipality||||5307
+5|batazara, Palawan|Municipality||||5306
+5|Brooke's Point, Palawan|Municipality||||5305
+5|Busuanga, Palawan|Municipality||||5317
+5|Cagayancillo, Palawan|Municipality||||5321
+5|Coron, Palawan|Municipality||||5316
+5|Culion, Palawan|Municipality||||5315
+5|Cuyo, Palawan|Municipality||||5318
+5|Dumaran, Palawan|Municipality||||5310
+5|El Nido (Baquit), Palawan|Municipality||||5313
+5|Iwahig Penal Colony, Palawan|Municipality||||5301
+5|Kalayaan, Palawan|Municipality||||5322
+5|Linapacan, Palawan|Municipality||||5314
+5|Magsaysay, Palawan|Municipality||||5319
+5|Narra (Panacan), Palawan|Municipality||||5303
+5|Puerto Princesa City, Palawan|City||||5300
+5|Quezon, Palawan|Municipality||||5304
+5|Roxas, Palawan|Municipality||||5308
+5|San Vicente, Palawan|Municipality||||5309
+5|Taytay, Palawan|Municipality||||5312
+5|Alcantara, Romblon|Municipality||||5509
+5|Banton (Jones), Romblon|Municipality||||5515
+5|Cajidiocan, Romblon|Municipality||||5512
+5|Calatrava, Romblon|Municipality||||5503
+5|Concepcion, Romblon|Municipality||||5516
+5|Corcuera, Romblon|Municipality||||5514
+5|Ferrol, Romblon|Municipality||||5506
+5|Imelda, Romblon|Municipality||||5502
+5|Looc, Romblon|Municipality||||5507
+5|Magdiwang, Romblon|Municipality||||5511
+5|Odiongan, Romblon|Municipality||||5505
+5|Romblon, Romblon|Municipality||||5500
+5|San Agustin, Romblon|Municipality||||5501
+5|San Andres, Romblon|Municipality||||5504
+5|San Fernando, Romblon|Municipality||||5513
+5|San Jose, Romblon|Municipality||||5510
+5|Sta. Fe, Romblon|Municipality||||5508
+6|Tabaco, Albay|City||||4511
+6|Tiwi, Albay|Municipality||||4513
+6|Basud, Camarines Norte|Municipality||||4608
+6|Capalonga, Camarines Norte|Municipality||||4607
+6|Daet, Camarines Norte|Municipality||||4600
+6|Imelda, Camarines Norte|Municipality||||4610
+6|Jose Panganiban, Camarines Norte|Municipality||||4606
+6|Labo, Camarines Norte|Municipality||||4604
+6|Mercedez, Camarines Norte|Municipality||||4601
+6|Paracale, Camarines Norte|Municipality||||4605
+6|San Vicente, Camarines Norte|Municipality||||4609
+6|Sta. Elena, Camarines Norte|Municipality||||4611
+6|Talisay, Camarines Norte|Municipality||||4602
+6|Tulay na Lupa, Camarines Norte|Municipality||||4612
+6|Vinzons, Camarines Norte|Municipality||||4603
+6|Baao, Camarines Sur|Municipality||||4432
+6|Balatan, Camarines Sur|Municipality||||4436
+6|Bato, Camarines Sur|Municipality||||4435
+6|Bombon, Camarines Sur|Municipality||||4404
+6|Buhi, Camarines Sur|Municipality||||4433
+6|Bula, Camarines Sur|Municipality||||4430
+6|Cabusao, Camarines Sur|Municipality||||4406
+6|Calabanga, Camarines Sur|Municipality||||4405
+6|Camaligan, Camarines Sur|Municipality||||4401
+6|Canaman, Camarines Sur|Municipality||||4402
+6|Caramoan, Camarines Sur|Municipality||||4429
+6|Del Gallego, Camarines Sur|Municipality||||4411
+6|Gainza, Camarines Sur|Municipality||||4412
+6|Garchitorena, Camarines Sur|Municipality||||4428
+6|Goa, Camarines Sur|Municipality||||4422
+6|Iriga City, Camarines Sur|City||||4431
+6|Lagunoy, Camarines Sur|Municipality||||4425
+6|Libmanan, Camarines Sur|Municipality||||4407
+6|Lupi, Camarines Sur|Municipality||||4409
+6|Magarao, Camarines Sur|Municipality||||4403
+6|Milaor, Camarines Sur|Municipality||||4413
+6|Minalabac, Camarines Sur|Municipality||||4414
+6|Nabua, Camarines Sur|Municipality||||4434
+6|Naga City, Camarines Sur|City||||4400
+6|Ocampo, Camarines Sur|Municipality||||4419
+6|Pamplona, Camarines Sur|Municipality||||4416
+6|Pasacao, Camarines Sur|Municipality||||4417
+6|Pili, Camarines Sur|Municipality||||4418
+6|Presentacion, Camarines Sur|Municipality||||4424
+6|Ragay, Camarines Sur|Municipality||||4410
+6|Sagnay, Camarines Sur|Municipality||||4421
+6|San Fernando, Camarines Sur|Municipality||||4415
+6|San Jose, Camarines Sur|Municipality||||4423
+6|Sipocot, Camarines Sur|Municipality||||4408
+6|Siruma, Camarines Sur|Municipality||||4427
+6|Tigaon, Camarines Sur|Municipality||||4420
+6|Tinambac, Camarines Sur|Municipality||||4426
+6|Bagamanoc, Catanduanes|Municipality||||4807
+6|Baras, Catanduanes|Municipality||||4803
+6|Bato, Catanduanes|Municipality||||4801
+6|Caramoran, Catanduanes|Municipality||||4808
+6|Gigmoto, Catanduanes|Municipality||||4804
+6|Pandan, Catanduanes|Municipality||||4809
+6|Panganiban, Catanduanes|Municipality||||4806
+6|San Andres, Catanduanes|Municipality||||4810
+6|San Miguel, Catanduanes|Municipality||||4802
+6|Viga, Catanduanes|Municipality||||4805
+6|Virac, Catanduanes|Municipality||||4800
+6|Aroroy, Masbate|Municipality||||5414
+6|Baleno, Masbate|Municipality||||5413
+6|balud, Masbate|Municipality||||5412
+6|Batuan, Masbate|Municipality||||5415
+6|Buenavista, Masbate|Municipality||||5421
+6|Cataingan, Masbate|Municipality||||5405
+6|Cawayan, Masbate|Municipality||||5409
+6|Claveria, Masbate|Municipality||||5419
+6|Dimasalang, Masbate|Municipality||||5403
+6|Esperanza, Masbate|Municipality||||5407
+6|Mandaon, Masbate|Municipality||||5411
+6|Masbate, Masbate|City||||5400
+6|Milagros, Masbate|Municipality||||5410
+6|Mobo, Masbate|Municipality||||5401
+6|Montreal, Masbate|Municipality||||5418
+6|Palanas, Masbate|Municipality||||5404
+6|Pio V. Corpuz, Masbate|Municipality||||5406
+6|Placer, Masbate|Municipality||||5408
+6|San Fernando, Masbate|Municipality||||5416
+6|San Jacinto, Masbate|Municipality||||5417
+6|San Pascual, Masbate|Municipality||||5420
+6|Uson, Masbate|Municipality||||5402
+6|Bacon, Sorsogon|Municipality||||4701
+6|Barcelona, Sorsogon|Municipality||||4712
+6|Bulan, Sorsogon|Municipality||||4706
+6|Bulusan, Sorsogon|Municipality||||4704
+6|Casiguran, Sorsogon|Municipality||||4702
+6|Castilla, Sorsogon|Municipality||||4713
+6|Donsol, Sorsogon|Municipality||||4715
+6|Gubat, Sorsogon|Municipality||||4710
+6|Irosin, Sorsogon|Municipality||||4707
+6|Juban, Sorsogon|Municipality||||4703
+6|Magallanes, Sorsogon|Municipality||||4705
+6|Matnog, Sorsogon|Municipality||||4708
+6|Pilar, Sorsogon|Municipality||||4714
+6|Prieto Diaz, Sorsogon|Municipality||||4711
+6|Sorsogon, Sorsogon|City||||4700
+6|Sta.Magdalena, Sorsogon|Municipality||||4709
+7|Altavas, Aklan|Municipality||||5616
+7|Balite, Aklan|Municipality||||5614
+7|Banga, Aklan|Municipality||||5601
+7|Batan, Aklan|Municipality||||5615
+7|Buruanga, Aklan|Municipality||||5609
+7|Ibajay, Aklan|Municipality||||5613
+7|Kalibo, Aklan|Municipality||||5600
+7|Lezo, Aklan|Municipality||||5605
+7|Libacao, Aklan|Municipality||||5602
+7|Madalag, Aklan|Municipality||||5603
+7|Makato, Aklan|Municipality||||5611
+7|Malay, Aklan|Municipality||||5608
+7|Malinao, Aklan|Municipality||||5606
+7|Nabas, Aklan|Municipality||||5607
+7|New Washington, Aklan|Municipality||||5610
+7|Numancia, Aklan|Municipality||||5604
+7|Tangalan, Aklan|Municipality||||5612
+7|Anini-y, Antique|Municipality||||5717
+7|Barbasa, Antique|Municipality||||5706
+7|Belison, Antique|Municipality||||5701
+7|Bugasong, Antique|Municipality||||5704
+7|Caluya, Antique|Municipality||||5711
+7|Culasi, Antique|Municipality||||5708
+7|Hamtic, Antique|Municipality||||5715
+7|Lawa-an, Antique|Municipality||||5705
+7|Libertad, Antique|Municipality||||5710
+7|Pandan, Antique|Municipality||||5712
+7|Patnongan, Antique|Municipality||||5702
+7|San Jose, Antique|Municipality||||5700
+7|San Remegio, Antique|Municipality||||5714
+7|Sebaste, Antique|Municipality||||5709
+7|Sibalom, Antique|Municipality||||5713
+7|Tibiao, Antique|Municipality||||5707
+7|Tobias Fornier (Dao), Antique|Municipality||||5716
+7|Valderama, Antique|Municipality||||5703
+7|Cuartero, Capiz|Municipality||||5811
+7|Dao, Capiz|Municipality||||5810
+7|Dumalag, Capiz|Municipality||||5813
+7|Dumarao, Capiz|Municipality||||5812
+7|Ivisan, Capiz|Municipality||||5805
+7|Jamindan, Capiz|Municipality||||5808
+7|Ma-ayon, Capiz|Municipality||||5809
+7|Mambusao, Capiz|Municipality||||5807
+7|Panay, Capiz|Municipality||||5801
+7|Panitan, Capiz|Municipality||||5815
+7|Pilar, Capiz|Municipality||||5804
+7|Pres. Roxas, Capiz|Municipality||||5803
+7|Puntevendra, Capiz|Municipality||||5802
+7|Roxas City, Capiz|City||||5800
+7|Sapian, Capiz|Municipality||||5806
+7|Sigma, Capiz|Municipality||||5816
+7|Tapaz, Capiz|Municipality||||5814
+7|Sub-Province Buenavista, Guimaras|Municipality||||5044
+7|Sub-Province Jordan, Guimaras|Municipality||||5045
+7|Sub-Province Nueva Valencia, Guimaras|Municipality||||5046
+7|Ajuy, Iloilo Province|Municipality||||5012
+7|Alimodian, Iloilo Province|Municipality||||5028
+7|Anilao, Iloilo Province|Municipality||||5009
+7|Badiangan, Iloilo Province|Municipality||||5033
+7|Balasan, Iloilo Province|Municipality||||5018
+7|Banate, Iloilo Province|Municipality||||5010
+7|Barotac Nuevo, Iloilo Province|Municipality||||5007
+7|Barotac Viejo, Iloilo Province|Municipality||||5011
+7|Batad, Iloilo Province|Municipality||||5016
+7|Bingawan, Iloilo Province|Municipality||||5041
+7|Cabanatuan, Iloilo Province|Municipality||||5031
+7|Calinog, Iloilo Province|Municipality||||5040
+7|Carles, Iloilo Province|Municipality||||5019
+7|Concepcion, Iloilo Province|Municipality||||5013
+7|Dingle, Iloilo Province|Municipality||||5035
+7|Duenas, Iloilo Province|Municipality||||5038
+7|Dumangas, Iloilo Province|Municipality||||5006
+7|Estancia, Iloilo Province|Municipality||||5017
+7|Guimbal, Iloilo Province|Municipality||||5022
+7|Igbaras, Iloilo Province|Municipality||||5029
+7|Iloilo City, Iloilo Province|City||||5000
+7|Janiuay, Iloilo Province|Municipality||||5034
+7|Lambunao, Iloilo Province|Municipality||||5042
+7|Leganes, Iloilo Province|Municipality||||5003
+7|Lemery, Iloilo Province|Municipality||||5043
+7|Leon, Iloilo Province|Municipality||||5026
+7|Maasin, Iloilo Province|Municipality||||5030
+7|Miagao, Iloilo Province|Municipality||||5023
+7|Mina, Iloilo Province|Municipality||||5032
+7|New Lucena, Iloilo Province|Municipality||||5005
+7|Oton, Iloilo Province|Municipality||||5020
+7|Passi, Iloilo Province|City||||5037
+7|Pavia, Iloilo Province|Municipality||||5001
+7|Pototan, Iloilo Province|Municipality||||5008
+7|San Dionisio, Iloilo Province|Municipality||||5015
+7|San Enrique, Iloilo Province|Municipality||||5036
+7|San Joaquin, Iloilo Province|Municipality||||5024
+7|San Miguel, Iloilo Province|Municipality||||5025
+7|San Rafael, Iloilo Province|Municipality||||5039
+7|Santa Barbara, Iloilo Province|Municipality||||5002
+7|Sara, Iloilo Province|Municipality||||5014
+7|Tigbauan, Iloilo Province|Municipality||||5021
+7|Tubungan, Iloilo Province|Municipality||||5027
+7|Zarraga, Iloilo Province|Municipality||||5004
+7|Bacolod City, Negros Occidental|City||||6100
+7|Bago City, Negros Occidental|City||||6101
+7|Binalbagan, Negros Occidental|Municipality||||6107
+7|Cadiz City, Negros Occidental|City||||6121
+7|Calatrava, Negros Occidental|Municipality||||6126
+7|Candoni, Negros Occidental|Municipality||||6110
+7|Enrique Magalona, Negros Occidental|Municipality||||6118
+7|Escalante, Negros Occidental|City||||6124
+7|Himamaylan, Negros Occidental|City||||6108
+7|Hinigaran, Negros Occidental|Municipality||||6106
+7|Hinoba-an, Negros Occidental|Municipality||||6114
+7|Ilog, Negros Occidental|Municipality||||6109
+7|Isabela, Negros Occidental|Municipality||||6128
+7|Kabangkalan, Negros Occidental|City||||6111
+7|Kauayan, Negros Occidental|Municipality||||6112
+7|La Carlota City, Negros Occidental|City||||6130
+7|La Castellana, Negros Occidental|Municipality||||6131
+7|Manapla, Negros Occidental|Municipality||||6120
+7|Moises Padilla, Negros Occidental|Municipality||||6132
+7|Murcia, Negros Occidental|Municipality||||6129
+7|Paraiso (Fabrica), Negros Occidental|Municipality||||6123
+7|Pontevedra, Negros Occidental|Municipality||||6105
+7|Pulupandan, Negros Occidental|Municipality||||6102
+7|Sagay, Negros Occidental|City||||6122
+7|San Carlos City, Negros Occidental|City||||6127
+7|San Enrique, Negros Occidental|Municipality||||6104
+7|Silay City, Negros Occidental|City||||6116
+7|Silay Hawaiian Central, Negros Occidental|City||||6117
+7|Sipalay, Negros Occidental|City||||6113
+7|Talisay, Negros Occidental|City||||6115
+7|Toboso, Negros Occidental|Municipality||||5125
+7|Valladolid, Negros Occidental|Municipality||||6103
+7|Victorias, Negros Occidental|City||||6119
+8|Albuquerque, Bohol|Municipality||||6302
+8|Alicia, Bohol|Municipality||||6314
+8|Anda, Bohol|Municipality||||6311
+8|Antiquera, Bohol|Municipality||||6335
+8|Baclayon, Bohol|Municipality||||6301
+8|Balilihan, Bohol|Municipality||||6342
+8|Batigbi-an, Bohol|Municipality||||6343
+8|Batuan, Bohol|Municipality||||6318
+8|Bien Unido, Bohol|Municipality||||6326
+8|Bilar, Bohol|Municipality||||6317
+8|Buenavista, Bohol|Municipality||||6333
+8|Calape, Bohol|Municipality||||6328
+8|Candijay, Bohol|Municipality||||6312
+8|Carlos P. Garcia (Dao), Bohol|Municipality||||6346
+8|Carmen, Bohol|Municipality||||6319
+8|Clarin, Bohol|Municipality||||6330
+8|Corella, Bohol|Municipality||||6337
+8|Cortez, Bohol|Municipality||||6341
+8|Daguhoy, Bohol|Municipality||||6322
+8|Danao, Bohol|Municipality||||6344
+8|Dauis, Bohol|Municipality||||6339
+8|Dimiao, Bohol|Municipality||||6305
+8|Garcia Hernandez, Bohol|Municipality||||6307
+8|Guindulman, Bohol|Municipality||||6310
+8|Inabanga, Bohol|Municipality||||6332
+8|Jagna, Bohol|Municipality||||6308
+8|Jetafe, Bohol|Municipality||||6334
+8|Lila, Bohol|Municipality||||6304
+8|Loay, Bohol|Municipality||||6303
+8|Loboc, Bohol|Municipality||||6316
+8|Loon, Bohol|Municipality||||6327
+8|Mabini, Bohol|Municipality||||6313
+8|Maribujoc, Bohol|Municipality||||6336
+8|Panglao, Bohol|Municipality||||6340
+8|Pilar, Bohol|Municipality||||6321
+8|Sagbayan, Bohol|Municipality||||6331
+8|San Isidro, Bohol|Municipality||||6345
+8|San Miguel, Bohol|Municipality||||6323
+8|Sevilla, Bohol|Municipality||||6347
+8|Sierra Bullones, Bohol|Municipality||||6320
+8|Sikatuna, Bohol|Municipality||||6338
+8|Tagbilaran City, Bohol|City||||6300
+8|Talibon, Bohol|Municipality||||6325
+8|Trinidad, Bohol|Municipality||||6324
+8|Tubigon, Bohol|Municipality||||6329
+8|Ubay, Bohol|Municipality||||6315
+8|Valencia, Bohol|Municipality||||6306
+8|Alcantara, Cebu Province|Municipality||||6033
+8|Alcoy, Cebu Province|Municipality||||6023
+8|Alegria, Cebu Province|Municipality||||6030
+8|Aloguinsan, Cebu Province|Municipality||||6040
+8|Argao, Cebu Province|Municipality||||6021
+8|Asturias, Cebu Province|Municipality||||6042
+8|Badian, Cebu Province|Municipality||||6031
+8|Balamban, Cebu Province|Municipality||||6041
+8|Bantayan, Cebu Province|Municipality||||6052
+8|Barile, Cebu Province|Municipality||||6036
+8|Bogo, Cebu Province|City||||6010
+8|Boljoon, Cebu Province|Municipality||||6024
+8|Borbon, Cebu Province|Municipality||||6008
+8|Carcar, Cebu Province|City||||6019
+8|Carmen, Cebu Province|Municipality||||6005
+8|Catmon, Cebu Province|Municipality||||6006
+8|Cebu City, Cebu Province|City||||6000
+8|Compostela, Cebu Province|Municipality||||6003
+8|Consolacion, Cebu Province|Municipality||||6001
+8|Cordova, Cebu Province|Municipality||||6017
+8|Daang-Bantayan, Cebu Province|Municipality||||6013
+8|Dalaguete, Cebu Province|Municipality||||6022
+8|Danao City, Cebu Province|City||||6004
+8|Dumanjug, Cebu Province|Municipality||||6035
+8|Ginatilan, Cebu Province|Municipality||||6028
+8|Lapu-Lapu City, Cebu Province|City||||6015
+8|Liloan, Cebu Province|Municipality||||6002
+8|Mactan Airport, Cebu Province|Municipality||||6016
+8|Madridejos, Cebu Province|Municipality||||6053
+8|Malabuyoc, Cebu Province|Municipality||||6029
+8|Mandaue City, Cebu Province|City||||6014
+8|Medellin, Cebu Province|Municipality||||6012
+8|Minglanilla, Cebu Province|Municipality||||6046
+8|Moalboal, Cebu Province|Municipality||||6032
+8|Naga, Cebu Province|City||||6037
+8|Oslob, Cebu Province|Municipality||||6025
+8|Pilar, Cebu Province|Municipality||||6048
+8|Pinamungahan, Cebu Province|Municipality||||6039
+8|Poro, Cebu Province|Municipality||||6049
+8|Ronda, Cebu Province|Municipality||||6034
+8|Sambaon, Cebu Province|Municipality||||6027
+8|San Fernando, Cebu Province|Municipality||||6018
+8|San Francisco, Cebu Province|Municipality||||6050
+8|San Remegio, Cebu Province|Municipality||||6011
+8|Santa Fe, Cebu Province|Municipality||||6047
+8|Santander, Cebu Province|Municipality||||6026
+8|Sibonga, Cebu Province|Municipality||||6020
+8|Sogod, Cebu Province|Municipality||||6007
+8|Tabogon, Cebu Province|Municipality||||6009
+8|Tabuelan, Cebu Province|Municipality||||6044
+8|Talisay, Cebu Province|City||||6045
+8|Toledo City, Cebu Province|City||||6038
+8|Tuburan, Cebu Province|Municipality||||6043
+8|Tudela, Cebu Province|Municipality||||6051
+8|Amlan, Negros Occidental|Municipality||||6203
+8|Ayungon, Negros Occidental|Municipality||||6210
+8|Bacung, Negros Occidental|Municipality||||6216
+8|Bais City, Negros Occidental|City||||6206
+8|Basay, Negros Occidental|Municipality||||6222
+8|Bayawan, Negros Occidental|City||||6221
+8|Bindoy, Negros Occidental|Municipality||||6209
+8|Canlaon City, Negros Occidental|City||||6223
+8|Dauin, Negros Occidental|Municipality||||6217
+8|Dumaguete City, Negros Occidental|City||||6200
+8|Guihulngan, Negros Occidental|City||||6214
+8|Jimalalud, Negros Occidental|Municipality||||6212
+8|La Libertad, Negros Occidental|Municipality||||6213
+8|Mabinay, Negros Occidental|Municipality||||6207
+8|Manjuyod, Negros Occidental|Municipality||||8208
+8|Pamplona, Negros Occidental|Municipality||||6205
+8|San Jose, Negros Occidental|Municipality||||6202
+8|Siaton, Negros Occidental|Municipality||||6219
+8|Sibulan, Negros Occidental|Municipality||||6201
+8|Sta. Catalina, Negros Occidental|Municipality||||6220
+8|Tanjay, Negros Occidental|City||||6204
+8|Tayasan, Negros Occidental|Municipality||||6211
+8|Valencia, Negros Occidental|Municipality||||6215
+8|Valle hermoso, Negros Occidental|Municipality||||6224
+8|Zamboangita, Negros Occidental|Municipality||||6218
+8|Enrique Villanueva, Siquijor|Municipality||||6230
+8|Larena, Siquijor|Municipality||||6226
+8|Lazi, Siquijor|Municipality||||6228
+8|Maria, Siquijor|Municipality||||6229
+8|San Juan, Siquijor|Municipality||||6227
+8|Siquijor, Siquijor|Municipality||||6225
+9|Almeria, Biliran Sub-Province|Municipality||||6544
+9|Biliran, Biliran Sub-Province|Municipality||||6549
+9|Cabuccayan, Biliran Sub-Province|Municipality||||6550
+9|Caibiran, Biliran Sub-Province|Municipality||||6548
+9|Culaba, Biliran Sub-Province|Municipality||||6547
+9|Kawayan, Biliran Sub-Province|Municipality||||6545
+9|Maripipi, Biliran Sub-Province|Municipality||||6546
+9|Naval, Biliran Sub-Province|Municipality||||6543
+9|Arteche, Eastern Samar|Municipality||||6822
+9|Balangiga, Eastern Samar|Municipality||||6812
+9|Balangkayan, Eastern Samar|Municipality||||6801
+9|Borongan, Eastern Samar|City||||6800
+9|Can-Avid, Eastern Samar|Municipality||||6806
+9|Dolores, Eastern Samar|Municipality||||6817
+9|Gen. MacArthur, Eastern Samar|Municipality||||6805
+9|Giporlos, Eastern Samar|Municipality||||6811
+9|Guiuan, Eastern Samar|Municipality||||6809
+9|Hernani, Eastern Samar|Municipality||||6804
+9|Jipapad, Eastern Samar|Municipality||||6819
+9|Lawa-an, Eastern Samar|Municipality||||6813
+9|Llorente, Eastern Samar|Municipality||||6803
+9|Maslog, Eastern Samar|Municipality||||6820
+9|Maydulong, Eastern Samar|Municipality||||6802
+9|Mercedes, Eastern Samar|Municipality||||6808
+9|Oras, Eastern Samar|Municipality||||6818
+9|Quinapundan, Eastern Samar|Municipality||||6810
+9|Salcedo, Eastern Samar|Municipality||||6807
+9|San Julian, Eastern Samar|Municipality||||6814
+9|San Policarpio, Eastern Samar|Municipality||||6821
+9|Sulat, Eastern Samar|Municipality||||6815
+9|Taft, Eastern Samar|Municipality||||6816
+9|Abuyog, Leyte|Municipality||||6510
+9|Alangalang, Leyte|Municipality||||6517
+9|Albuera, Leyte|Municipality||||6542
+9|Babatngon, Leyte|Municipality||||6520
+9|Barauen, Leyte|Municipality||||6516
+9|Barugo, Leyte|Municipality||||6519
+9|Bato, Leyte|Municipality||||6525
+9|Baybay, Leyte|City||||6521
+9|Calubian, Leyte|Municipality||||6534
+9|Capoocan, Leyte|Municipality||||6530
+9|Carigara, Leyte|Municipality||||6529
+9|Dagami, Leyte|Municipality||||6515
+9|Dulag, Leyte|Municipality||||6505
+9|Hilongos, Leyte|Municipality||||6524
+9|Hindang, Leyte|Municipality||||6523
+9|Inopacan, Leyte|Municipality||||6522
+9|Isabel, Leyte|Municipality||||6539
+9|Jaro, Leyte|Municipality||||6527
+9|Javier, Leyte|Municipality||||6511
+9|Julita, Leyte|Municipality||||6506
+9|Kananga, Leyte|Municipality||||6531
+9|La Paz, Leyte|Municipality||||6508
+9|Leyte, Leyte|Municipality||||6533
+9|Macathur, Leyte|Municipality||||6509
+9|Mahaplag, Leyte|Municipality||||6512
+9|Matag-ob, Leyte|Municipality||||6532
+9|Matalom, Leyte|Municipality||||6526
+9|Mayorga, Leyte|Municipality||||6507
+9|Merida, Leyte|Municipality||||6540
+9|Ormoc City, Leyte|City||||6541
+9|Palo, Leyte|Municipality||||6501
+9|Palompon, Leyte|Municipality||||6538
+9|Pastrana, Leyte|Municipality||||6514
+9|San Isidro, Leyte|Municipality||||6535
+9|San Miguel, Leyte|Municipality||||6518
+9|Sta. Fe, Leyte|Municipality||||6513
+9|Tabango, Leyte|Municipality||||6536
+9|Tabontabon, Leyte|Municipality||||6504
+9|Tacloban City, Leyte|City||||6500
+9|Tanauan, Leyte|Municipality||||6502
+9|Tolosa, Leyte|Municipality||||6503
+9|Tunga, Leyte|Municipality||||6528
+9|Villaba, Leyte|Municipality||||6537
+9|Allen, Northern Samar|Municipality||||6405
+9|Biri, Northern Samar|Municipality||||6410
+9|Bobon, Northern Samar|Municipality||||6401
+9|Capul, Northern Samar|Municipality||||6408
+9|Catarman, Northern Samar|Municipality||||6400
+9|Catubig, Northern Samar|Municipality||||6418
+9|Gamay, Northern Samar|Municipality||||6422
+9|La Navas, Northern Samar|Municipality||||6420
+9|Laoang, Northern Samar|Municipality||||6411
+9|Lapineg, Northern Samar|Municipality||||6423
+9|Lavezares, Northern Samar|Municipality||||6404
+9|Lope de Vega, Northern Samar|Municipality||||6403
+9|Mapanas, Northern Samar|Municipality||||6412
+9|Mondragon, Northern Samar|Municipality||||6417
+9|Palapag, Northern Samar|Municipality||||6421
+9|Pambujan, Northern Samar|Municipality||||6413
+9|Rosario, Northern Samar|Municipality||||6416
+9|San Antonio, Northern Samar|Municipality||||6407
+9|San Isidro, Northern Samar|Municipality||||6409
+9|San Jose, Northern Samar|Municipality||||6402
+9|San Roque, Northern Samar|Municipality||||6415
+9|San Vicente, Northern Samar|Municipality||||6419
+9|Silvino Lubos, Northern Samar|Municipality||||6414
+9|Victoria, Northern Samar|Municipality||||6406
+9|Anahawan, Southern Leyte|Municipality||||6610
+9|Bontoc, Southern Leyte|Municipality||||6604
+9|Hinunangan, Southern Leyte|Municipality||||6608
+9|Hinundayan, Southern Leyte|Municipality||||6609
+9|Libagon, Southern Leyte|Municipality||||6615
+9|Liloan, Southern Leyte|Municipality||||6612
+9|Maasin, Southern Leyte|City||||6600
+9|Macrohon, Southern Leyte|Municipality||||6601
+9|Malitbog, Southern Leyte|Municipality||||6603
+9|Padre Burgos, Southern Leyte|Municipality||||6601
+9|Pintuyan, Southern Leyte|Municipality||||6614
+9|San Francisco, Southern Leyte|Municipality||||6613
+9|San Juan (Cabalian), Southern Leyte|Municipality||||6611
+9|San Ricardo, Southern Leyte|Municipality||||6617
+9|Silago, Southern Leyte|Municipality||||6607
+9|Sogod, Southern Leyte|Municipality||||6606
+9|St. Bernard, Southern Leyte|Municipality||||6616
+9|Tomas Oppus, Southern Leyte|Municipality||||6605
+9|Almagro, Western Samar|Municipality||||6724
+9|Basey, Western Samar|Municipality||||6720
+9|Calbayog City, Western Samar|City||||6710
+9|Calbiga, Western Samar|Municipality||||6715
+9|Catbalogan, Western Samar|City||||6700
+9|Daram, Western Samar|Municipality||||6722
+9|Gandara, Western Samar|Municipality||||6706
+9|Hinbangan, Western Samar|Municipality||||6713
+9|Jiabong, Western Samar|Municipality||||6701
+9|Marabut, Western Samar|Municipality||||6721
+9|Matuguinao, Western Samar|Municipality||||6708
+9|Motiong, Western Samar|Municipality||||6702
+9|Pagsangjan, Western Samar|Municipality||||6705
+9|Pinabacdao, Western Samar|Municipality||||6716
+9|San Jorge, Western Samar|Municipality||||6707
+9|San Jose de Bauan, Western Samar|Municipality||||6723
+9|San sebastian, Western Samar|Municipality||||6714
+9|Sta. Margarita, Western Samar|Municipality||||6709
+9|Sta. Rita, Western Samar|Municipality||||6718
+9|Sto. Niño, Western Samar|Municipality||||6711
+9|Tagapulan, Western Samar|Municipality||||6712
+9|Talarora, Western Samar|Municipality||||6719
+9|Tarangnan, Western Samar|Municipality||||6704
+9|Villareal, Western Samar|Municipality||||6717
+9|Wright, Western Samar|Municipality||||6703
+9|Zumarraga, Western Samar|Municipality||||6725
+10|Baliguian, Zamboanga del Norte|Municipality||||7123
+10|Dapitan City, Zamboanga del Norte|City||||7101
+10|Dipolog City, Zamboanga del Norte|City||||7100
+10|Gutalac, Zamboanga del Norte|Municipality||||7118
+10|Jose Dalman (Ponot), Zamboanga del Norte|Municipality||||7111
+10|Kalawit, Zamboanga del Norte|Municipality||||7124
+10|Katipunan, Zamboanga del Norte|Municipality||||7109
+10|La Libertad, Zamboanga del Norte|Municipality||||7119
+10|Labason, Zamboanga del Norte|Municipality||||7117
+10|Liloy, Zamboanga del Norte|Municipality||||7115
+10|Manukan, Zamboanga del Norte|Municipality||||7110
+10|Mutia, Zamboanga del Norte|Municipality||||7107
+10|Pinan, Zamboanga del Norte|Municipality||||7105
+10|Polanco, Zamboanga del Norte|Municipality||||7106
+10|Rizal, Zamboanga del Norte|Municipality||||7104
+10|Roxas, Zamboanga del Norte|Municipality||||7102
+10|Salug, Zamboanga del Norte|Municipality||||7114
+10|Sergio Osmeña, Zamboanga del Norte|Municipality||||7108
+10|Siayan, Zamboanga del Norte|Municipality||||7113
+10|Sibuco, Zamboanga del Norte|Municipality||||7122
+10|Sibutad, Zamboanga del Norte|Municipality||||7103
+10|Sindangan (Leon B. Postigo), Zamboanga del Norte|Municipality||||7112
+10|Siocon, Zamboanga del Norte|Municipality||||7120
+10|Siraway, Zamboanga del Norte|Municipality||||7121
+10|Tampilisan, Zamboanga del Norte|Municipality||||7116
+10|Alicia, Zamboanga del Sur|Municipality||||7040
+10|Aurora, Zamboanga del Sur|Municipality||||7020
+10|Bayog, Zamboanga del Sur|Municipality||||7011
+10|Buug, Zamboanga del Sur|Municipality||||7009
+10|Dimataling, Zamboanga del Sur|Municipality||||7032
+10|Dinas, Zamboanga del Sur|Municipality||||7030
+10|Diplahan, Zamboanga del Sur|Municipality||||7039
+10|Don Mariano Marcos, Zamboanga del Sur|Municipality||||7022
+10|Dumalinao, Zamboanga del Sur|Municipality||||7015
+10|Dumingag, Zamboanga del Sur|Municipality||||7028
+10|Guipos, Zamboanga del Sur|Municipality||||7042
+10|Imelda, Zamboanga del Sur|Municipality||||7007
+10|Ipil, Zamboanga del Sur|Municipality||||7001
+10|Josefina, Zamboanga del Sur|Municipality||||7027
+10|Kabalasan, Zamboanga del Sur|Municipality||||7005
+10|Kumalarang, Zamboanga del Sur|Municipality||||7013
+10|Labangan, Zamboanga del Sur|Municipality||||7017
+10|Lakewood, Zamboanga del Sur|Municipality||||7014
+10|Lapuyan, Zamboanga del Sur|Municipality||||7037
+10|Mabuhay, Zamboanga del Sur|Municipality||||7010
+10|Mahayag, Zamboanga del Sur|Municipality||||7026
+10|Malangas, Zamboanga del Sur|Municipality||||7038
+10|Margo sa Tubig, Zamboanga del Sur|Municipality||||7035
+10|Midsalip, Zamboanga del Sur|Municipality||||7021
+10|Molave, Zamboanga del Sur|Municipality||||7023
+10|Naga, Zamboanga del Sur|Municipality||||7004
+10|Olutanga, Zamboanga del Sur|Municipality||||7041
+10|Pagadian City, Zamboanga del Sur|City||||7016
+10|Payao, Zamboanga del Sur|Municipality||||7008
+10|Pitogo, Zamboanga del Sur|Municipality||||7033
+10|Ramon Magsaysay, Zamboanga del Sur|Municipality||||7024
+10|Roseller Lim, Zamboanga del Sur|Municipality||||7002
+10|San Miguel, Zamboanga del Sur|Municipality||||7029
+10|San Pablo, Zamboanga del Sur|Municipality||||7031
+10|Siay, Zamboanga del Sur|Municipality||||7006
+10|Tabina, Zamboanga del Sur|Municipality||||7034
+10|Talusan, Zamboanga del Sur|Municipality||||7012
+10|Tambulig, Zamboanga del Sur|Municipality||||7025
+10|Tigbad, Zamboanga del Sur|Municipality||||7043
+10|Titay, Zamboanga del Sur|Municipality||||7003
+10|Tukuran, Zamboanga del Sur|Municipality||||7019
+10|Tungawan, Zamboanga del Sur|Municipality||||7018
+10|Vicencio Sagun, Zamboanga del Sur|Municipality||||7036
+10|Zamboanga City, Zamboanga del Sur|City||||7000
+11|Baungon, Bukidnon|Municipality||||8707
+11|Damulog, Bukidnon|Municipality||||8721
+11|Dangcagan, Bukidnon|Municipality||||8719
+11|Don Carlos, Bukidnon|Municipality||||8712
+11|Impasugong, Bukidnon|Municipality||||8702
+11|Kabanglasan, Bukidnon|Municipality||||8723
+11|Kadingilan, Bukidnon|Municipality||||8713
+11|Kalilangan, Bukidnon|Municipality||||8718
+11|Kibawe, Bukidnon|Municipality||||8720
+11|Kitaotao, Bukidnon|Municipality||||8716
+11|Lantapan, Bukidnon|Municipality||||8722
+11|Libuna, Bukidnon|Municipality||||8706
+11|Malaybalay, Bukidnon|City||||8700
+11|Malitbog, Bukidnon|Municipality||||8704
+11|Manolo Fortich, Bukidnon|Municipality||||8703
+11|Maramag, Bukidnon|Municipality||||8714
+11|Masuan, Bukidnon|Municipality||||8710
+11|Pangantucan, Bukidnon|Municipality||||8717
+11|Phillips, Bukidnon|Municipality||||8705
+11|Quezon, Bukidnon|Municipality||||8715
+11|San Fernando, Bukidnon|Municipality||||8711
+11|Sumilao, Bukidnon|Municipality||||8701
+11|Talakag, Bukidnon|Municipality||||8708
+11|Valencia, Bukidnon|City||||8709
+11|Catarman, Camiguin|Municipality||||9104
+11|Guinsiliban, Camiguin|Municipality||||9102
+11|Mahinog, Camiguin|Municipality||||9101
+11|Mambajao, Camiguin|Municipality||||9100
+11|Saglay, Camiguin|Municipality||||9103
+11|Bacolod, Lanao del Norte|Municipality||||9205
+11|Baloi, Lanao del Norte|Municipality||||9217
+11|Baroy, Lanao del Norte|Municipality||||9210
+11|Iligan City, Lanao del Norte|City||||9200
+11|Kapatagan, Lanao del Norte|Municipality||||9214
+11|Karomatan, Lanao del Norte|Municipality||||9215
+11|Kauswagan, Lanao del Norte|Municipality||||9202
+11|Kolambugan, Lanao del Norte|Municipality||||9207
+11|Lala, Lanao del Norte|Municipality||||9211
+11|Linamon, Lanao del Norte|Municipality||||9201
+11|Magsaysay, Lanao del Norte|Municipality||||9221
+11|Maigo, Lanao del Norte|Municipality||||9206
+11|Matungao, Lanao del Norte|Municipality||||9203
+11|Munai, Lanao del Norte|Municipality||||9219
+11|Nunungan, Lanao del Norte|Municipality||||9216
+11|Pantao Ragat, Lanao del Norte|Municipality||||9208
+11|Pantar, Lanao del Norte|Municipality||||9218
+11|Poona Piagapo, Lanao del Norte|Municipality||||9204
+11|Salvador, Lanao del Norte|Municipality||||9212
+11|Sapad, Lanao del Norte|Municipality||||9213
+11|Tagoloan, Lanao del Norte|Municipality||||9222
+11|Tangkal, Lanao del Norte|Municipality||||9220
+11|Tubod, Lanao del Norte|Municipality||||9209
+11|Aloran, Misamis Occidental|Municipality||||7206
+11|baliangao, Misamis Occidental|Municipality||||7211
+11|Bonifacio, Misamis Occidental|Municipality||||7215
+11|Calamba, Misamis Occidental|Municipality||||7210
+11|Clarin, Misamis Occidental|Municipality||||7201
+11|Concepcion, Misamis Occidental|Municipality||||7213
+11|Jimenez, Misamis Occidental|Municipality||||7204
+11|Lopez Jaena, Misamis Occidental|Municipality||||7208
+11|Oroquieta City, Misamis Occidental|City||||7207
+11|Ozamis City, Misamis Occidental|City||||7200
+11|Panaon, Misamis Occidental|Municipality||||7205
+11|Plaridel, Misamis Occidental|Municipality||||7209
+11|Sapang dalaga, Misamis Occidental|Municipality||||7212
+11|Sinacaban, Misamis Occidental|Municipality||||7203
+11|Tangub City, Misamis Occidental|City||||7214
+11|Alubijid, Misamis Oriental|Municipality||||9018
+11|Balingasag, Misamis Oriental|Municipality||||9005
+11|Balinguan, Misamis Oriental|Municipality||||9011
+11|Binuangan, Misamis Oriental|Municipality||||9008
+11|Cagayan de Oro City, Misamis Oriental|City||||9000
+11|Claveria, Misamis Oriental|Municipality||||9004
+11|El Salvador, Misamis Oriental|City||||9017
+11|Gingoog City, Misamis Oriental|City||||9014
+11|Gitagum, Misamis Oriental|Municipality||||9020
+11|Initao, Misamis Oriental|Municipality||||9022
+11|Jasaan, Misamis Oriental|Municipality||||9003
+11|Kinogitan, Misamis Oriental|Municipality||||9010
+11|Laguindian, Misamis Oriental|Municipality||||9019
+11|Langonglog, Misamis Oriental|Municipality||||9006
+11|Libertad, Misamis Oriental|Municipality||||9021
+11|Lugait, Misamis Oriental|Municipality||||9025
+11|Magsasay, Misamis Oriental|Municipality||||9015
+11|Manticao, Misamis Oriental|Municipality||||9024
+11|Medina, Misamis Oriental|Municipality||||9013
+11|Naawan, Misamis Oriental|Municipality||||9023
+11|Opol, Misamis Oriental|Municipality||||9016
+11|Salay, Misamis Oriental|Municipality||||9007
+11|Sugbongcogon, Misamis Oriental|Municipality||||9009
+11|Tagoloan, Misamis Oriental|Municipality||||9001
+11|Talisayan, Misamis Oriental|Municipality||||9012
+11|Tudela, Misamis Oriental|Municipality||||7202
+11|Villanueva, Misamis Oriental|Municipality||||9002
+12|Compostela, Compostela Valley|Municipality||||8803
+12|Laak, Compostela Valley|Municipality||||8810
+12|Mabini, Compostela Valley|Municipality||||8807
+12|Maco, Compostela Valley|Municipality||||8806
+12|Maragusan, Compostela Valley|Municipality||||8808
+12|Mawab, Compostela Valley|Municipality||||8802
+12|Monkayo, Compostela Valley|Municipality||||8805
+12|Montevista, Compostela Valley|Municipality||||8801
+12|Nabunturan, Compostela Valley|Municipality||||8800
+12|New, Bataan, Compostela Valley|Municipality||||8804
+12|Pantukan, Compostela Valley|Municipality||||8809
+12|Bansalan, Davao del Sur|Municipality||||8005
+12|Davao City, Davao del Sur|City||||8000
+12|Digos, Davao del Sur|City||||8002
+12|Don Marcelino, Davao del Sur|Municipality||||8013
+12|Hagunoy, Davao del Sur|Municipality||||8006
+12|Jose Abad Santos, Davao del Sur|Municipality||||8014
+12|Kiblawan, Davao del Sur|Municipality||||8008
+12|Magsaysay, Davao del Sur|Municipality||||8004
+12|Malalag, Davao del Sur|Municipality||||8010
+12|Malita, Davao del Sur|Municipality||||8012
+12|Matanao, Davao del Sur|Municipality||||8003
+12|Padada, Davao del Sur|Municipality||||8007
+12|Santa Cruz, Davao del Sur|Municipality||||8001
+12|Santa Maria, Davao del Sur|Municipality||||8011
+12|Sarangani, Davao del Sur|Municipality||||8015
+12|Sulop, Davao del Sur|Municipality||||8009
+12|Asuncion, Davao del Norte|Municipality||||8102
+12|Babak, Davao del Norte|Municipality||||8118
+12|Carmen, Davao del Norte|Municipality||||8101
+12|Kapalong, Davao del Norte|Municipality||||8113
+12|Kaputian, Davao del Norte|Municipality||||8120
+12|New Corella, Davao del Norte|Municipality||||8104
+12|Panabo, Davao del Norte|City||||8105
+12|Samal, Davao del Norte|City||||8119
+12|San Mariano, Davao del Norte|Municipality||||8116
+12|San Vicente, Davao del Norte|Municipality||||8103
+12|Santo Tomas, Davao del Norte|Municipality||||8112
+12|Tagum, Davao del Norte|City||||8100
+12|Banaybanay, Davao Oriental|Municipality||||8208
+12|Banganga, Davao Oriental|Municipality||||8204
+12|Boston, Davao Oriental|Municipality||||8206
+12|Caraga, Davao Oriental|Municipality||||8203
+12|Cateel, Davao Oriental|Municipality||||8205
+12|Gov. Generoso, Davao Oriental|Municipality||||8210
+12|Lopon, Davao Oriental|Municipality||||8207
+12|Manay, Davao Oriental|Municipality||||8202
+12|Mati, Davao Oriental|City||||8200
+12|San Isidro, Davao Oriental|Municipality||||8209
+12|Tarragona, Davao Oriental|Municipality||||8201
+13|Alamada, North Cotabato|Municipality||||9413
+13|Aleosan, North Cotabato|Municipality||||9415
+13|Antipas, North Cotabato|Municipality||||9414
+13|Arakan, North Cotabato|Municipality||||9417
+13|Banisilan, North Cotabato|Municipality||||9416
+13|Carmen, North Cotabato|Municipality||||9408
+13|Kabacan, North Cotabato|Municipality||||9407
+13|Kidapawan, North Cotabato|City||||9400
+13|Libungan, North Cotabato|Municipality||||9411
+13|Magpet, North Cotabato|Municipality||||9404
+13|Makilala, North Cotabato|Municipality||||9401
+13|Matalam, North Cotabato|Municipality||||9406
+13|Midsayap, North Cotabato|Municipality||||9410
+13|M'lang, North Cotabato|Municipality||||9402
+13|Pigkawayan, North Cotabato|Municipality||||9412
+13|Pikit, North Cotabato|Municipality||||9409
+13|Pre. Roxas, North Cotabato|Municipality||||9405
+13|Tulunan, North Cotabato|Municipality||||9403
+13|Alabel, Sarangani|Municipality||||9501
+13|Glan, Sarangani|Municipality||||9517
+13|Kiamba, Sarangani|Municipality||||9514
+13|Maasim, Sarangani|Municipality||||9502
+13|Maitum, Sarangani|Municipality||||9515
+13|Malapatan, Sarangani|Municipality||||9516
+13|Malungon, Sarangani|Municipality||||9503
+13|Banga, South Cotabato|Municipality||||9511
+13|General Santos City, South Cotabato|City||||9500
+13|Koronadal, South Cotabato|City||||9506
+13|Norala, South Cotabato|Municipality||||9508
+13|Polomolok, South Cotabato|Municipality||||9504
+13|Sto. Niño, South Cotabato|Municipality||||9509
+13|Surallah, South Cotabato|Municipality||||9512
+13|Tampacan, South Cotabato|Municipality||||9507
+13|Tantangan, South Cotabato|Municipality||||9510
+13|T'boli, South Cotabato|Municipality||||9513
+13|Tupi, South Cotabato|Municipality||||9505
+13|Bagumbayan, Sultan Kudarat|Municipality||||9810
+13|Columbio, Sultan Kudarat|Municipality||||9801
+13|Esperanza (Ampatuan), Sultan Kudarat|Municipality||||9806
+13|Isulan, Sultan Kudarat|Municipality||||9805
+13|Kalamansig, Sultan Kudarat|Municipality||||9808
+13|Lebak (Salaman), Sultan Kudarat|Municipality||||9807
+13|Lutayan, Sultan Kudarat|Municipality||||9803
+13|Mariano Marcos, Sultan Kudarat|Municipality||||9802
+13|Palimbang, Sultan Kudarat|Municipality||||9809
+13|Pres., Quirino, Sultan Kudarat|Municipality||||9804
+13|Sen. Ninoy Aquino, Sultan Kudarat|Municipality||||9811
+13|Takurong, Sultan Kudarat|City||||9800
+14|Buenavista, Agusan del Norte|Municipality||||8601
+14|Butuan City, Agusan del Norte|City||||8600
+14|Cabadbaran, Agusan del Norte|City||||8605
+14|Carmen, Agusan del Norte|Municipality||||8603
+14|Jabonga, Agusan del Norte|Municipality||||8607
+14|Kitcharao, Agusan del Norte|Municipality||||8609
+14|La Nieves, Agusan del Norte|Municipality||||8610
+14|Magallanes, Agusan del Norte|Municipality||||8604
+14|Nasipit, Agusan del Norte|Municipality||||8602
+14|Remedios T. Romualdez, Agusan del Norte|Municipality||||8611
+14|Santiago, Agusan del Norte|Municipality||||8608
+14|Tubay, Agusan del Norte|Municipality||||8606
+14|Bayugan, Agusan del Sur|City||||8502
+14|Bunawan, Agusan del Sur|Municipality||||8506
+14|Esperanza, Agusan del Sur|Municipality||||8513
+14|La Paz, Agusan del Sur|Municipality||||8508
+14|Loreto, Agusan del Sur|Municipality||||8507
+14|Prosperidad, Agusan del Sur|Municipality||||8500
+14|Rosario, Agusan del Sur|Municipality||||8504
+14|San Francisco, Agusan del Sur|Municipality||||8501
+14|San Luis, Agusan del Sur|Municipality||||8511
+14|Sibagat, Agusan del Sur|Municipality||||8503
+14|Sta. Josefa, Agusan del Sur|Municipality||||8512
+14|Talacogon, Agusan del Sur|Municipality||||8510
+14|Trento, Agusan del Sur|Municipality||||8505
+14|Veruela, Agusan del Sur|Municipality||||8509
+14|Alegria, Surigao del Norte|Municipality||||8425
+14|Bacuag, Surigao del Norte|Municipality||||8408
+14|Basilisa (Rizal), Surigao del Norte|Municipality||||8413
+14|Burgos, Surigao del Norte|Municipality||||8424
+14|cagdianao, Surigao del Norte|Municipality||||8411
+14|Claver, Surigao del Norte|Municipality||||8410
+14|Dapa, Surigao del Norte|Municipality||||8417
+14|Del carmen, Surigao del Norte|Municipality||||8418
+14|Dinagat, Surigao del Norte|Municipality||||8412
+14|Gen. Luna, Surigao del Norte|Municipality||||8419
+14|Gigaquit, Surigao del Norte|Municipality||||8409
+14|Libjo (Albor), Surigao del Norte|Municipality||||8414
+14|Loreto, Surigao del Norte|Municipality||||8415
+14|Mainit, Surigao del Norte|Municipality||||8407
+14|Malimano, Surigao del Norte|Municipality||||8402
+14|Pilar, Surigao del Norte|Municipality||||8420
+14|Placer, Surigao del Norte|Municipality||||8405
+14|San Benito, Surigao del Norte|Municipality||||8423
+14|San Francisco, Surigao del Norte|Municipality||||8401
+14|San Isidro, Surigao del Norte|Municipality||||8421
+14|San Jose, Surigao del Norte|Municipality||||8427
+14|Sison, Surigao del Norte|Municipality||||8404
+14|Socorro, Surigao del Norte|Municipality||||8416
+14|Sta. Monica, Surigao del Norte|Municipality||||8422
+14|Surigao City, Surigao del Norte|City||||8400
+14|Tagan-an, Surigao del Norte|Municipality||||8403
+14|Tubajon, Surigao del Norte|Municipality||||8426
+14|Tubod, Surigao del Norte|Municipality||||8406
+14|Barobo, Surigao del Sur|Municipality||||8309
+14|Bayabas, Surigao del Sur|Municipality||||8303
+14|Bislig, Surigao del Sur|City||||8311
+14|Cagwait, Surigao del Sur|Municipality||||8304
+14|Cantillan, Surigao del Sur|Municipality||||8317
+14|Carmen, Surigao del Sur|Municipality||||8315
+14|Carrascal, Surigao del Sur|Municipality||||8318
+14|Cortez, Surigao del Sur|Municipality||||8313
+14|Hinatuan, Surigao del Sur|Municipality||||8310
+14|Lanuza, Surigao del Sur|Municipality||||8314
+14|Lianga, Surigao del Sur|Municipality||||8307
+14|Lingig, Surigao del Sur|Municipality||||8312
+14|Madrid, Surigao del Sur|Municipality||||8316
+14|Marihatag, Surigao del Sur|Municipality||||8306
+14|San Agustin, Surigao del Sur|Municipality||||8305
+14|San Miguel, Surigao del Sur|Municipality||||8301
+14|Tagbina, Surigao del Sur|Municipality||||8308
+14|Tago, Surigao del Sur|Municipality||||8302
+14|Tandag, Surigao del Sur|City||||8300
+15|Bangued, Abra|Municipality||||2800
+15|Boliney, Abra|Municipality||||2815
+15|Bucloc, Abra|Municipality||||2817
+15|Bukay, Abra|Municipality||||2805
+15|Daguioman, Abra|Municipality||||2816
+15|Danglas, Abra|Municipality||||2825
+15|Dolores, Abra|Municipality||||2801
+15|La Paz, Abra|Municipality||||2826
+15|Lacub, Abra|Municipality||||2821
+15|Lagayan, Abra|Municipality||||2824
+15|Lagiden, Abra|Municipality||||2807
+15|Langagilang, Abra|Municipality||||2802
+15|Licuan, Abra|Municipality||||2819
+15|Luba, Abra|Municipality||||2813
+15|Malibcong, Abra|Municipality||||2820
+15|Manabo, Abra|Municipality||||2810
+15|Peñarubia, Abra|Municipality||||2804
+15|Pidigan, Abra|Municipality||||2806
+15|Pilar, Abra|Municipality||||2812
+15|Sal-Lapadan, Abra|Municipality||||2818
+15|San Isidro, Abra|Municipality||||2809
+15|San Juan, Abra|Municipality||||2823
+15|San Quintin, Abra|Municipality||||2808
+15|Tayum, Abra|Municipality||||2803
+15|Tineg, Abra|Municipality||||2822
+15|Tubo, Abra|Municipality||||2814
+15|Villaviciosa, Abra|Municipality||||2811
+15|Atok, Benguet|Municipality||||2612
+15|Baguio City, Benguet|City||||2600
+15|Bakun, Benguet|Municipality||||2610
+15|Bokod, Benguet|Municipality||||2605
+15|Bugias, Benguet|Municipality||||2607
+15|Itogon, Benguet|Municipality||||2604
+15|Kabayan, Benguet|Municipality||||2606
+15|Kapangan, Benguet|Municipality||||2613
+15|Kibungan, Benguet|Municipality||||2611
+15|La Trinidad, Benguet|Municipality||||2601
+15|Lepanto, Benguet|Municipality||||2609
+15|Manyakan, Benguet|Municipality||||2608
+15|Phil. Military Academy (PMA), Benguet|Municipality||||2602
+15|Sablan, Benguet|Municipality||||2614
+15|Tuba, Benguet|Municipality||||2603
+15|Tublay, Benguet|Municipality||||2615
+15|Aguinaldo, Ifugao|Municipality||||3606
+15|Asipulo, Ifugao|Municipality||||3610
+15|Banaue, Ifugao|Municipality||||3601
+15|Hingyon, Ifugao|Municipality||||3607
+15|Hungduan, Ifugao|Municipality||||3603
+15|Kiangan, Ifugao|Municipality||||3604
+15|Lagawe, Ifugao|Municipality||||3600
+15|Lamut, Ifugao|Municipality||||3605
+15|Mayaoyao (Mayoyao), Ifugao|Municipality||||3602
+15|Potia, Ifugao|Municipality||||3608
+15|Tinoc, Ifugao|Municipality||||3609
+15|Balbalan, Kalinga-Apayao|Municipality||||3801
+15|Calanasan, Kalinga-Apayao|Municipality||||3814
+15|Conner, Kalinga-Apayao|Municipality||||3807
+15|Flora, Kalinga-Apayao|Municipality||||3810
+15|Kabugao, Kalinga-Apayao|Municipality||||3809
+15|Liwan (Rizal), Kalinga-Apayao|Municipality||||3808
+15|Lubuagan, Kalinga-Apayao|Municipality||||3802
+15|Luna, Kalinga-Apayao|Municipality||||3813
+15|Pasil, Kalinga-Apayao|Municipality||||3803
+15|Pinukpuk, Kalinga-Apayao|Municipality||||3806
+15|Pudtol, Kalinga-Apayao|Municipality||||3812
+15|Sta. Marcela, Kalinga-Apayao|Municipality||||3811
+15|Tabuk, Kalinga-Apayao|City||||3800
+15|Tanudan, Kalinga-Apayao|Municipality||||3805
+15|Tinglayan, Kalinga-Apayao|Municipality||||3804
+15|Barlig, Mountain Province|Municipality||||2623
+15|Baukod, Mountain Province|Municipality||||2621
+15|Besao, Mountain Province|Municipality||||2618
+15|Bontoc, Mountain Province|Municipality||||2616
+15|Natonin, Mountain Province|Municipality||||2614
+15|Paracelis, Mountain Province|Municipality||||2615
+15|Sabangan, Mountain Province|Municipality||||2622
+15|Sadanga, Mountain Province|Municipality||||2617
+15|Sagada, Mountain Province|Municipality||||2619
+15|Tadian, Mountain Province|Municipality||||2620
+16|Isabela de Basilan, Basilan|Municipality||||7300
+16|Lamitan, Basilan|Municipality||||7302
+16|Lantawan, Basilan|Municipality||||7301
+16|Maluso, Basilan|Municipality||||7303
+16|Sumisip, Basilan|Municipality||||7305
+16|Tipo-Tipo, Basilan|Municipality||||7304
+16|Tuburan, Basilan|Municipality||||7306
+16|Bacolod Grande, Lanao del Sur|Municipality||||9316
+16|Balabagan, Lanao del Sur|Municipality||||9302
+16|Balindong, Lanao del Sur|Municipality||||9318
+16|Bayang, Lanao del Sur|Municipality||||9309
+16|Binindayan, Lanao del Sur|Municipality||||9310
+16|Buadiposo Buntong, Lanao del Sur|Municipality||||9714
+16|Bubong, Lanao del Sur|Municipality||||9708
+16|Bumbaran, Lanao del Sur|Municipality||||9320
+16|Butig, Lanao del Sur|Municipality||||9305
+16|Calanogas, Lanao del Sur|Municipality||||9319
+16|Ganassi, Lanao del Sur|Municipality||||9311
+16|Kapai, Lanao del Sur|Municipality||||9709
+16|Lumba Bayabao, Lanao del Sur|Municipality||||9703
+16|Lumbatan, Lanao del Sur|Municipality||||9307
+16|Lumbayanague, Lanao del Sur|Municipality||||9306
+16|Macador Andong, Lanao del Sur|Municipality||||9308
+16|Madalum, Lanao del Sur|Municipality||||9315
+16|Madamba, Lanao del Sur|Municipality||||9314
+16|Maguing, Lanao del Sur|Municipality||||9715
+16|Malabang, Lanao del Sur|Municipality||||9300
+16|Maragong, Lanao del Sur|Municipality||||9303
+16|Marantao, Lanao del Sur|Municipality||||9711
+16|Marawi City, Lanao del Sur|City||||9700
+16|Masiu, Lanao del Sur|Municipality||||9706
+16|Mulondo, Lanao del Sur|Municipality||||9702
+16|Pagayawan, Lanao del Sur|Municipality||||9312
+16|Piapago, Lanao del Sur|Municipality||||9710
+16|Poona Bayabao, Lanao del Sur|Municipality||||9705
+16|Pualas, Lanao del Sur|Municipality||||9313
+16|Ramain-Ditsaan, Lanao del Sur|Municipality||||9713
+16|Saguiaran, Lanao del Sur|Municipality||||9701
+16|Sultan Gumander, Lanao del Sur|Municipality||||9301
+16|Tagoloan - II, Lanao del Sur|Municipality||||9321
+16|Tamparan, Lanao del Sur|Municipality||||9704
+16|Taraka, Lanao del Sur|Municipality||||9712
+16|Tubaran, Lanao del Sur|Municipality||||9304
+16|Tugaya, Lanao del Sur|Municipality||||9317
+16|Wao, Lanao del Sur|Municipality||||9716
+16|Ampatuan, Maguindanao|Municipality||||9609
+16|Baira, Maguindanao|Municipality||||9614
+16|Buldon, Maguindanao|Municipality||||9615
+16|Buluan, Maguindanao|Municipality||||9616
+16|Cotabato City, Maguindanao|City||||9600
+16|Datu Odin Sinsuat (Dinaig), Maguindanao|Municipality||||9601
+16|Datu Paglas, Maguindanao|Municipality||||9617
+16|Datu Piang, Maguindanao|Municipality||||9607
+16|Gen. S.K. Datun, Maguindanao|Municipality||||9618
+16|Kabuntulan, Maguindanao|Municipality||||9606
+16|Maganoy, Maguindanao|Municipality||||9608
+16|Matanog, Maguindanao|Municipality||||9613
+16|Pagalungan, Maguindanao|Municipality||||9610
+16|Parang, Maguindanao|Municipality||||9604
+16|South Upi, Maguindanao|Municipality||||9603
+16|Sultan Kudarat, Maguindanao|Municipality||||9605
+16|Sultan Sa Barongis, Maguindanao|Municipality||||9611
+16|Talayan, Maguindanao|Municipality||||9612
+16|Upi, Maguindanao|Municipality||||9602
+16|Indanan, Sulu|Municipality||||7407
+16|Jolo, Sulu|Municipality||||7400
+16|Kalingalan Kalauang, Sulu|Municipality||||7416
+16|Lugus, Sulu|Municipality||||7411
+16|Luuk, Sulu|Municipality||||7404
+16|Maimbung, Sulu|Municipality||||7409
+16|Marungas, Sulu|Municipality||||7413
+16|Panamao, Sulu|Municipality||||7402
+16|Panglima Estino, Sulu|Municipality||||7415
+16|Panguntaran, Sulu|Municipality||||7414
+16|Parang, Sulu|Municipality||||7408
+16|Pata, Sulu|Municipality||||7405
+16|Patikul, Sulu|Municipality||||7401
+16|Siasi, Sulu|Municipality||||7412
+16|Talipao, Sulu|Municipality||||7403
+16|Tapul, Sulu|Municipality||||7410
+16|Tongkil, Sulu|Municipality||||7406
+16|Balimbing, Tawi-Tawi|Municipality||||7501
+16|Bongao, Tawi-Tawi|Municipality||||7500
+16|Cagayan de Sulu, Tawi-Tawi|Municipality||||7508
+16|Languyan, Tawi-Tawi|Municipality||||7509
+16|Sapa-Sapa, Tawi-Tawi|Municipality||||7503
+16|Simunol, Tawi-Tawi|Municipality||||7505
+16|Sitangkai, Tawi-Tawi|Municipality||||7506
+16|South Ubian, Tawi-Tawi|Municipality||||7504
+16|Taganak (Turtle Island), Tawi-Tawi|Municipality||||7507
+16|Tandu Bas, Tawi-Tawi|Municipality||||7502
+17|Amparo Subdivision, Caloocan City (North)|Barangay|179|1||1425
+17|Bagong Silang, Caloocan City (North)|Barangay|176|1||1428
+17|Bagumbong/Pag-asa, Caloocan City (North)|Barangay|171|2||1421
+17|Bankers Village, Caloocan City (North)|Barangay|184|2||1426
+17|Capitol Parkland Subdivision, Caloocan City (North)|Barangay|177|1||1424
+17|Kaybiga/deparo, Caloocan City (North)|Barangay|168|1||1420
+17|Lilles Ville Subdivision, Caloocan City (North)|Barangay||||1423
+17|Novaliches North, Caloocan City (North)|Barangay||1||1422
+17|Tala Leprosarium, Caloocan City (North)|Barangay|185|1||1427
+17|Victory Heights, Caloocan City (North)|Barangay|180|||1427
+17|1 St Ave. To 7th Ave.- West, Caloocan City (South)|Barangay||||1405
+17|Baesa, Caloocan City (South)|Barangay|158|1||1401
+17|Fish Market, Caloocan City (South)|Barangay||||1411
+17|Grace Park East, Caloocan City (South)|Barangay|89|2||1403
+17|Grace Park West, Caloocan City (South)|Barangay|57|2||1406
+17|Isla De Cocomo, Caloocan City (South)|Barangay|128|||1412
+17|Caloocan City Cpo, Caloocan City (South)|Barangay||||1400
+17|Kapitbahayan East, Caloocan City (South)|Barangay||||1413
+17|Kaunlaran Village, Caloocan City (South)|Barangay|20|1||1409
+17|Maypajo, Caloocan City (South)|Barangay|31|2||1410
+17|San Jose, Caloocan City (South)|Barangay||2||1404
+17|Sangandaan, Caloocan City (South)|Barangay||2||1408
+17|Sta. Quiteria, Caloocan City (South)|Barangay||2||1402
+17|University Hills, Caloocan City (South)|Barangay|80|||1407
+17|Almanza, Las Pinas|Barangay||2||1750
+17|Angela Village, Las Pinas|Barangay||||1749
+17|Cut-cut, Las Pinas|Barangay||||1743
+17|Gatchalian Subdivision, Las Pinas|Barangay||||1745
+17|Las Pinas Cpo, Las Pinas|Barangay||||1740
+17|Manila Doctors Village, Las Pinas|Barangay||||1748
+17|Manuyo, Las Pinas|Barangay||1||1744
+17|Pulang Lupa, Las Pinas|Barangay||1||1742
+17|Remarville Subdivision, Las Pinas|Barangay||||1741
+17|Soldiers Hills Subdivision, Las Pinas|Barangay||||1752
+17|T.s. Cruz Subdivision, Las Pinas|Barangay||||1751
+17|Talon, Moonwalk, Las Pinas|Barangay||1||1747
+17|Verdant Acres Subdivision, Las Pinas|Barangay||||1746
+17|Zapote, Las Pinas|Barangay||1||1742
+17|Ayala-paseo De Roxas, Makati|Barangay||||1226
+17|Bangkal, Makati|Barangay||1||1233
+17|Bel-air, Makati|Barangay||1||1209
+17|Cembo, Makati|Barangay||2||1214
+17|Comembo, Makati|Barangay||2||1217
+17|Dasmarinas Village North, Makati|Barangay||1||1221
+17|Dasmarinas Village South, Makati|Barangay||1||1222
+17|Forbes Park North, Makati|Barangay||1||1219
+17|Forbes Park South, Makati|Barangay||1||1220
+17|Fort Bonifacio (Camp), Makati|Barangay||||1201
+17|Fort Bonifacio Naval Stn., Makati|Barangay||||1202
+17|Greenbelt, Makati|Barangay||||1228
+17|Guadalupe Nuevo, Makati|Barangay||2||1212
+17|Guadalupe Viejo, Makati|Barangay||2||1211
+17|Kasilawan, Makati|Barangay||1||1206
+17|La Paz-singkamas-tejeros, Makati|Barangay||1||1204
+17|Legaspi Village, Makati|Barangay||||1229
+17|Magallanes Village, Makati|Barangay||1||1232
+17|Makati Commercial Center, Makati|Barangay||||1224
+17|Makati Gpo, Makati|Barangay||||1200
+17|Olympia And Carmona, Makati|Barangay||1||1207
+17|Palanan, Makati|Barangay||1||1235
+17|Pasong Tamo 2000 Up, Ecology V, Makati|Barangay||||1231
+17|Pembo, Makati|Barangay||2||1218
+17|Pinagkaisahan-pitogo, Makati|Barangay||2||1213
+17|Pio Del Pilar, Makati|Barangay||1||1230
+17|Poblacion, Makati|Barangay||1||1210
+17|Rembo (East) & Malapad Na Bato, Makati|Barangay||2||1216
+17|Rembo(west), Makati|Barangay||2||1215
+17|Salcedo Village, Makati|Barangay||||1227
+17|San Antonio Village, Makati|Barangay||1||1203
+17|San Isidro, Makati|Barangay||1||1234
+17|San Lorenzo Village, Makati|Barangay||1||1223
+17|Sta. Cruz, Makati|Barangay||1||1205
+17|Urdaneta Village, Makati|Barangay||1||1225
+17|Valenzuela, Makati|Barangay||1||1208
+17|Acacia, Malabon|Barangay||2||1474
+17|Araneta Subdivision, Malabon|Barangay||||1476
+17|Dampalit, Malabon|Barangay||1||1480
+17|Flores, Malabon|Barangay||1||1471
+17|Kaunlaran Village, Malabon|Barangay||||1409
+17|Longos, Malabon|Barangay||2||1472
+17|Malabon, Malabon|Barangay||||1470
+17|Maysilo, Malabon|Barangay||1||1477
+17|Muzon, Malabon|Barangay||1||1479
+17|Potrero, Malabon|Barangay||2||1475
+17|Santolan, Malabon|Barangay||1||1478
+17|Tonsuya, Malabon|Barangay||2||1473
+17|East Edsa, Mandaluyong|Barangay||||1554
+17|Greenhills South, Mandaluyong|Barangay||||1556
+17|Mandaluyong Cpo, Mandaluyong|Barangay||||1550
+17|Phil. Natl. Mental Hospital, Mandaluyong|Barangay||||1553
+17|Shaw Boulevard, Mandaluyong|Barangay||||1552
+17|Vergara, Mandaluyong|Barangay||2||1551
+17|Wack Wack Golf, Mandaluyong|Barangay||1||1555
+17|Binondo, Manila|Barangay||3|Binondo|1006
+17|Intramuros, Manila|Barangay||5|Intramuros|1002
+17|Malate, Manila|Barangay||5|Malate|1004
+17|Manila CPO - Ermita, Manila|Barangay||5|Ermita|1000
+17|Paco, Manila|Barangay|677|5 & 6|Paco|1007
+17|Pandacan, Manila|Barangay|846|6|Pandacan|1011
+17|Port Area (South), Manila|Barangay||5|Port Area|1018
+17|Quiapo, Manila|Barangay||3|Quiapo|1001
+17|3 Marias, Sampaloc East, Manila|Barangay|800|4|Sampaloc|1008
+17|Alcantara, Sampaloc East, Manila|Barangay|434|4|Sampaloc|1008
+17|Alegria, Sampaloc East, Manila|Barangay|428|4|Sampaloc|1008
+17|Alex, Sampaloc East, Manila|Barangay|531|4|Sampaloc|1008
+17|Algeciras, Sampaloc East, Manila|Barangay|503|4|Sampaloc|1008
+17|Altura Ext., Sampaloc East, Manila|Barangay|593|4|Sampaloc|1008
+17|Aly - 1, Sampaloc East, Manila|Barangay|576|4|Sampaloc|1008
+17|Aly - 2, Sampaloc East, Manila|Barangay|573|4|Sampaloc|1008
+17|Aly - 3, Sampaloc East, Manila|Barangay|574|4|Sampaloc|1008
+17|Ansures, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Antipolo, Sampaloc East, Manila|Barangay|507|4|Sampaloc|1008
+17|Arenas, Sampaloc East, Manila|Barangay|407|4|Sampaloc|1008
+17|Arevalo, Sampaloc East, Manila|Barangay|422|4|Sampaloc|1008
+17|Atis, Sampaloc East, Manila|Barangay|581|4|Sampaloc|1008
+17|B. Tuazon, Sampaloc East, Manila|Barangay|584|4|Sampaloc|1008
+17|Basilio, Sampaloc East, Manila|Barangay|518|4|Sampaloc|1008
+17|Bataan, Sampaloc East, Manila|Barangay|555|4|Sampaloc|1008
+17|Batanes, Sampaloc East, Manila|Barangay|541|4|Sampaloc|1008
+17|Batanes Ext., Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Benito, Sampaloc East, Manila|Barangay|581|4|Sampaloc|1008
+17|Benny, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Beting, Sampaloc East, Manila|Barangay|450|4|Sampaloc|1008
+17|Blumentritt, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Bohol, Sampaloc East, Manila|Barangay|558|4|Sampaloc|1008
+17|Buenos Aires, Sampaloc East, Manila|Barangay|586|4|Sampaloc|1008
+17|Calabash A, Sampaloc East, Manila|Barangay|539|4|Sampaloc|1008
+17|Calabash B, Sampaloc East, Manila|Barangay|539|4|Sampaloc|1008
+17|Calabash Road, Sampaloc East, Manila|Barangay|534|4|Sampaloc|1008
+17|Carola, Sampaloc East, Manila|Barangay|454|4|Sampaloc|1008
+17|Castanos, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Cebu, Sampaloc East, Manila|Barangay|557|4|Sampaloc|1008
+17|Centro, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Concepcion, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Constancia, Sampaloc East, Manila|Barangay|473|4|Sampaloc|1008
+17|Craig, Sampaloc East, Manila|Barangay|552|4|Sampaloc|1008
+17|D. Santiago, Sampaloc East, Manila|Barangay|571|4|Sampaloc|1008
+17|Don B. Legarda, Sampaloc East, Manila|Barangay|522|4|Sampaloc|1008
+17|Dona Maria, Sampaloc East, Manila|Barangay|584|4|Sampaloc|1008
+17|Dr. Santos, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|E. Quintos, Sampaloc East, Manila|Barangay|503|4|Sampaloc|1008
+17|E. Vallejo, Sampaloc East, Manila|Barangay|585|4|Sampaloc|1008
+17|Escoda, Sampaloc East, Manila|Barangay|584|4|Sampaloc|1008
+17|Extemadura, Sampaloc East, Manila|Barangay|460|4|Sampaloc|1008
+17|F. Cayco, Sampaloc East, Manila|Barangay|410|4|Sampaloc|1008
+17|F. Jhocson, Sampaloc East, Manila|Barangay|429|4|Sampaloc|1008
+17|Felina, Sampaloc East, Manila|Barangay|459|4|Sampaloc|1008
+17|Felipa, Sampaloc East, Manila|Barangay|540|4|Sampaloc|1008
+17|G. Tuazon, Sampaloc East, Manila|Barangay|446|4|Sampaloc|1008
+17|Galicia, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Gastambide, Sampaloc East, Manila|Barangay|400|4|Sampaloc|1008
+17|Gerardo, Sampaloc East, Manila|Barangay|561|4|Sampaloc|1008
+17|Gov. Forbes, Sampaloc East, Manila|Barangay|490|4|Sampaloc|1008
+17|Guidor, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Honradez, Sampaloc East, Manila|Barangay|445|4|Sampaloc|1008
+17|Ilaw ng Nayon, Sampaloc East, Manila|Barangay|540|4|Sampaloc|1008
+17|Instruccion, Sampaloc East, Manila|Barangay|514|4|Sampaloc|1008
+17|J. Fajardo, Sampaloc East, Manila|Barangay|450|4|Sampaloc|1008
+17|J. Fajardo Ext., Sampaloc East, Manila|Barangay|537|4|Sampaloc|1008
+17|J. Figueroa, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Jaime, Sampaloc East, Manila|Barangay|531|4|Sampaloc|1008
+17|Josefina, Sampaloc East, Manila|Barangay|530|4|Sampaloc|1008
+17|Josefina I, Sampaloc East, Manila|Barangay|530|4|Sampaloc|1008
+17|Josefina II, Sampaloc East, Manila|Barangay|530|4|Sampaloc|1008
+17|Josefina III, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Kalabasita, Sampaloc East, Manila|Barangay|451|4|Sampaloc|1008
+17|Kasama, Sampaloc East, Manila|Barangay|570|4|Sampaloc|1008
+17|Kundiman, Sampaloc East, Manila|Barangay|554|4|Sampaloc|1008
+17|L. Roces, Sampaloc East, Manila|Barangay|584|4|Sampaloc|1008
+17|La Paz, Sampaloc East, Manila|Barangay|398|4|Sampaloc|1008
+17|Lapidario, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Lardizabal, Sampaloc East, Manila|Barangay|421|4|Sampaloc|1008
+17|Lardizabal Ext., Sampaloc East, Manila|Barangay|421|4|Sampaloc|1008
+17|Lavanderos, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Legarda, Sampaloc East, Manila|Barangay|413|4|Sampaloc|1008
+17|Leo, Sampaloc East, Manila|Barangay|575|4|Sampaloc|1008
+17|Leyte, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Leyte de Sur, Sampaloc East, Manila|Barangay|563|4|Sampaloc|1008
+17|Ligaya, Sampaloc East, Manila|Barangay|428|4|Sampaloc|1008
+17|Loreto Ext., Sampaloc East, Manila|Barangay|418|4|Sampaloc|1008
+17|Luisita, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Luzon Ave., Sampaloc East, Manila|Barangay|562|4|Sampaloc|1008
+17|M. Dela Fuente, Sampaloc East, Manila|Barangay|452|4|Sampaloc|1008
+17|M. Delos Santos, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|M.T. Halili, Sampaloc East, Manila|Barangay|533|4|Sampaloc|1008
+17|Mabini, Sampaloc East, Manila|Barangay|411|4|Sampaloc|1008
+17|Maceda, Sampaloc East, Manila|Barangay|518|4|Sampaloc|1008
+17|Maganda, Sampaloc East, Manila|Barangay|427|4|Sampaloc|1008
+17|Main, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Malamig, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Mango Ave., Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Manrique, Sampaloc East, Manila|Barangay|415|4|Sampaloc|1008
+17|Mansanas, Sampaloc East, Manila|Barangay|407|4|Sampaloc|1008
+17|Maria Cristina, Sampaloc East, Manila|Barangay|478|4|Sampaloc|1008
+17|Maria Luisa, Sampaloc East, Manila|Barangay|567|4|Sampaloc|1008
+17|Marquitos, Sampaloc East, Manila|Barangay|528|4|Sampaloc|1008
+17|Masbate, Sampaloc East, Manila|Barangay|567|4|Sampaloc|1008
+17|Matimyas, Sampaloc East, Manila|Barangay|527|4|Sampaloc|1008
+17|Mauro, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Mercedes, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Metricia, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Miguel, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Miguelin, Sampaloc East, Manila|Barangay|473|4|Sampaloc|1008
+17|Mindanao, Sampaloc East, Manila|Barangay|566|4|Sampaloc|1008
+17|Mindanao Ext., Sampaloc East, Manila|Barangay|576|4|Sampaloc|1008
+17|Mindoro, Sampaloc East, Manila|Barangay|575|4|Sampaloc|1008
+17|Mith, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Montana, Sampaloc East, Manila|Barangay|431|4|Sampaloc|1008
+17|Moret, Sampaloc East, Manila|Barangay|459|4|Sampaloc|1008
+17|Moret Ext., Sampaloc East, Manila|Barangay|405|4|Sampaloc|1008
+17|N.C.B.A., Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Negros, Sampaloc East, Manila|Barangay|564|4|Sampaloc|1008
+17|Norma, Sampaloc East, Manila|Barangay|563|4|Sampaloc|1008
+17|P. Guevarra, Sampaloc East, Manila|Barangay|435|4|Sampaloc|1008
+17|P. Naval, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|P. Paredes, Sampaloc East, Manila|Barangay|396|4|Sampaloc|1008
+17|P. Salita, Sampaloc East, Manila|Barangay|534|4|Sampaloc|1008
+17|P.S.B.A., Sampaloc East, Manila|Barangay|396|4|Sampaloc|1008
+17|P.U.P., Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Palawan, Sampaloc East, Manila|Barangay|577|4|Sampaloc|1008
+17|Palmera, Sampaloc East, Manila|Barangay|401|4|Sampaloc|1008
+17|Paltoc Ext., Sampaloc East, Manila|Barangay|571|4|Sampaloc|1008
+17|Panay, Sampaloc East, Manila|Barangay|555|4|Sampaloc|1008
+17|Paraiso, Sampaloc East, Manila|Barangay|581|4|Sampaloc|1008
+17|Pelaez, Sampaloc East, Manila|Barangay|578|4|Sampaloc|1008
+17|Pepin, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Perfecto, Sampaloc East, Manila|Barangay|398|4|Sampaloc|1008
+17|Pina Ave., Sampaloc East, Manila|Barangay|584|4|Sampaloc|1008
+17|Plaza Noli, Sampaloc East, Manila|Barangay|529|4|Sampaloc|1008
+17|Prudencio, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Pureza Ext., Sampaloc East, Manila|Barangay|421|4|Sampaloc|1008
+17|R. Papa, Sampaloc East, Manila|Barangay|396|4|Sampaloc|1008
+17|Relen, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Remedios, Sampaloc East, Manila|Barangay|528|4|Sampaloc|1008
+17|Rianzares, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Road 10, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Romblon, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Rosario, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Roxas, Sampaloc East, Manila|Barangay|557|4|Sampaloc|1008
+17|Rum Tri Rum, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|S. Trinidad, Sampaloc East, Manila|Barangay|309|4|Sampaloc|1008
+17|S.H. Loyola, Sampaloc East, Manila|Barangay|460|4|Sampaloc|1008
+17|Samar, Sampaloc East, Manila|Barangay|563|4|Sampaloc|1008
+17|San Anton, Sampaloc East, Manila|Barangay|405|4|Sampaloc|1008
+17|San Antonio, Sampaloc East, Manila|Barangay|398|4|Sampaloc|1008
+17|San Diego, Sampaloc East, Manila|Barangay|503|4|Sampaloc|1008
+17|Sancho Panza, Sampaloc East, Manila|Barangay|430|4|Sampaloc|1008
+17|Santiago, Sampaloc East, Manila|Barangay|571|4|Sampaloc|1008
+17|Santol, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Sikatuna, Sampaloc East, Manila|Barangay|409|4|Sampaloc|1008
+17|Silencio, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Sisa, Sampaloc East, Manila|Barangay|526|4|Sampaloc|1008
+17|Sobriedad, Sampaloc East, Manila|Barangay|534|4|Sampaloc|1008
+17|Sobriedad Ext., Sampaloc East, Manila|Barangay|534|4|Sampaloc|1008
+17|Sor Petronilla, Sampaloc East, Manila|Barangay|407|4|Sampaloc|1008
+17|Sta. Clara, Sampaloc East, Manila|Barangay|397|4|Sampaloc|1008
+17|Sta. Cruz, Sampaloc East, Manila|Barangay|537|4|Sampaloc|1008
+17|Sta. Teresita, Sampaloc East, Manila|Barangay|411|4|Sampaloc|1008
+17|Sto. Tomas, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Sulucan, Sampaloc East, Manila|Barangay|458|4|Sampaloc|1008
+17|Susan, Sampaloc East, Manila|Barangay|528|4|Sampaloc|1008
+17|T. Alfonso, Sampaloc East, Manila|Barangay|532|4|Sampaloc|1008
+17|T. Ansures, Sampaloc East, Manila|Barangay|529|4|Sampaloc|1008
+17|T. Arguilles, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Turtuosa, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|U.E., Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|V. Alindada, Sampaloc East, Manila|Barangay|527|4|Sampaloc|1008
+17|V.G. Cruz, Sampaloc East, Manila|Barangay|450|4|Sampaloc|1008
+17|Valaez, Sampaloc East, Manila|Barangay||4|Sampaloc|1008
+17|Valencia, Sampaloc East, Manila|Barangay|431|4|Sampaloc|1008
+17|Vigan, Sampaloc East, Manila|Barangay|578|4|Sampaloc|1008
+17|Visayan Ave., Sampaloc East, Manila|Barangay|559|4|Sampaloc|1008
+17|West Vigan, Sampaloc East, Manila|Barangay|580|4|Sampaloc|1008
+17|Adelina, Sampaloc West, Manila|Barangay|467|4|Sampaloc|1015
+17|Alfredo, Sampaloc West, Manila|Barangay|342|4|Sampaloc|1015
+17|Algeciras, Sampaloc West, Manila|Barangay|503|4|Sampaloc|1015
+17|Antipolo, Sampaloc West, Manila|Barangay|507|4|Sampaloc|1015
+17|Antonio, Sampaloc West, Manila|Barangay|342|4|Sampaloc|1015
+17|Asturias, Sampaloc West, Manila|Barangay|342|4|Sampaloc|1015
+17|Basilio, Sampaloc West, Manila|Barangay|518|4|Sampaloc|1015
+17|Blumentritt, Sampaloc West, Manila|Barangay||4|Sampaloc|1015
+17|Carola, Sampaloc West, Manila|Barangay|480|4|Sampaloc|1015
+17|Casanas, Sampaloc West, Manila|Barangay|516|4|Sampaloc|1015
+17|Cataluna, Sampaloc West, Manila|Barangay||4|Sampaloc|1015
+17|Concepcion, Sampaloc West, Manila|Barangay|398|4|Sampaloc|1015
+17|Constancia, Sampaloc West, Manila|Barangay|473|4|Sampaloc|1015
+17|Craig, Sampaloc West, Manila|Barangay|552|4|Sampaloc|1015
+17|Crisostomo, Sampaloc West, Manila|Barangay|496|4|Sampaloc|1015
+17|Dimasalang, Sampaloc West, Manila|Barangay|351|4|Sampaloc|1015
+17|Don Quijote, Sampaloc West, Manila|Barangay|480|4|Sampaloc|1015
+17|Dos Catillos, Sampaloc West, Manila|Barangay|456|4|Sampaloc|1015
+17|E. Quintos Ssr., Sampaloc West, Manila|Barangay|503|4|Sampaloc|1015
+17|Eloisa, Sampaloc West, Manila|Barangay|465|4|Sampaloc|1015
+17|F.E.U., Sampaloc West, Manila|Barangay|395|4|Sampaloc|1015
+17|Gelina, Sampaloc West, Manila|Barangay||4|Sampaloc|1015
+17|Gelinos, Sampaloc West, Manila|Barangay|342|4|Sampaloc|1015
+17|I. Delos Reyes, Sampaloc West, Manila|Barangay||4|Sampaloc|1015
+17|Ibarra, Sampaloc West, Manila|Barangay|513|4|Sampaloc|1015
+17|Instruccion, Sampaloc West, Manila|Barangay|514|4|Sampaloc|1015
+17|J. Barlin, Sampaloc West, Manila|Barangay||4|Sampaloc|1015
+17|Josefina, Sampaloc West, Manila|Barangay|530|4|Sampaloc|1015
+17|Juaning, Sampaloc West, Manila|Barangay|471|4|Sampaloc|1015
+17|Kundiman, Sampaloc West, Manila|Barangay|508|4|Sampaloc|1015
+17|Langit, Sampaloc West, Manila|Barangay||4|Sampaloc|1015
+17|Laong-Laan, Sampaloc West, Manila|Barangay|509|4|Sampaloc|1015
+17|M. Dela Fuente, Sampaloc West, Manila|Barangay|452|4|Sampaloc|1015
+17|Macamisa, Sampaloc West, Manila|Barangay||4|Sampaloc|1015
+17|Macaraig, Sampaloc West, Manila|Barangay||4|Sampaloc|1015
+17|Maceda, Sampaloc West, Manila|Barangay|518|4|Sampaloc|1015
+17|Makiling, Sampaloc West, Manila|Barangay|492|4|Sampaloc|1015
+17|Maria Clara, Sampaloc West, Manila|Barangay|496|4|Sampaloc|1015
+17|Maria Cristina, Sampaloc West, Manila|Barangay|478|4|Sampaloc|1015
+17|Metrica, Sampaloc West, Manila|Barangay|508|4|Sampaloc|1015
+17|Miguelin, Sampaloc West, Manila|Barangay|475|4|Sampaloc|1015
+17|Musa, Sampaloc West, Manila|Barangay|515|4|Sampaloc|1015
+17|Navarro, Sampaloc West, Manila|Barangay||4|Sampaloc|1015
+17|P. Campa, Sampaloc West, Manila|Barangay|467|4|Sampaloc|1015
+17|P. Noval, Sampaloc West, Manila|Barangay|465|4|Sampaloc|1015
+17|P. Paredes, Sampaloc West, Manila|Barangay|396|4|Sampaloc|1015
+17|Paquita, Sampaloc West, Manila|Barangay|463|4|Sampaloc|1015
+17|Pepin, Sampaloc West, Manila|Barangay||4|Sampaloc|1015
+17|Piy Margal, Sampaloc West, Manila|Barangay|506|4|Sampaloc|1015
+17|Prudencio, Sampaloc West, Manila|Barangay|473|4|Sampaloc|1015
+17|Rosario, Sampaloc West, Manila|Barangay||4|Sampaloc|1015
+17|Sampaloc West, Sampaloc West, Manila|Barangay|452|4|Sampaloc|1015
+17|San Diego, Sampaloc West, Manila|Barangay|503|4|Sampaloc|1015
+17|Santander, Sampaloc West, Manila|Barangay|471|4|Sampaloc|1015
+17|Sisa, Sampaloc West, Manila|Barangay|494|4|Sampaloc|1015
+17|Tacio, Sampaloc West, Manila|Barangay|512|4|Sampaloc|1015
+17|V.G. Cruz, Sampaloc West, Manila|Barangay||4|Sampaloc|1015
+17|San Andres Bukid Manila|Barangay|805|5|San Andres|1017
+17|San Miguel Manila|Barangay|642|6|San Miguel|1005
+17|San Nicolas Manila|Barangay|284|3|San Nicolas|1010
+17|Sta. Ana Manila|Barangay|889|6|Santa Ana|1009
+17|Almeda, Sta. Cruz North, Manila|Barangay||3|Santa Cruz|1014
+17|North Analceto, Sta. Cruz North, Manila|Barangay|358|3|Santa Cruz|1014
+17|North Andrade, Sta. Cruz North, Manila|Barangay|370|3|Santa Cruz|1014
+17|Aragon, Sta. Cruz North, Manila|Barangay|352|3|Santa Cruz|1014
+17|Aurora Blvd., Sta. Cruz North, Manila|Barangay|376|3|Santa Cruz|1014
+17|Balaguer, Sta. Cruz North, Manila|Barangay|351|3|Santa Cruz|1014
+17|Balanga, Sta. Cruz North, Manila|Barangay||3|Santa Cruz|1014
+17|Baldwin, Sta. Cruz North, Manila|Barangay|209|3|Santa Cruz|1014
+17|Batangas, Sta. Cruz North, Manila|Barangay|224|3|Santa Cruz|1014
+17|Becerna, Sta. Cruz North, Manila|Barangay|351|3|Santa Cruz|1014
+17|Blumentritt, Sta. Cruz North, Manila|Barangay||3|Santa Cruz|1014
+17|Bolinao, Sta. Cruz North, Manila|Barangay||3|Santa Cruz|1014
+17|Bugallon, Sta. Cruz North, Manila|Barangay||3|Santa Cruz|1014
+17|Bulacan, Sta. Cruz North, Manila|Barangay|382|3|Santa Cruz|1014
+17|Camarines, Sta. Cruz North, Manila|Barangay|354|3|Santa Cruz|1014
+17|Cavite, Sta. Cruz North, Manila|Barangay|366|3|Santa Cruz|1014
+17|Chinese Cemetery, Sta. Cruz North, Manila|Barangay|374|3|Santa Cruz|1014
+17|Consuelo, Sta. Cruz North, Manila|Barangay||3|Santa Cruz|1014
+17|Dinalupihan, Sta. Cruz North, Manila|Barangay||3|Santa Cruz|1014
+17|Elias, Sta. Cruz North, Manila|Barangay|370|3|Santa Cruz|1014
+17|Felina, Sta. Cruz North, Manila|Barangay|352|3|Santa Cruz|1014
+17|Felix Huertas, Sta. Cruz North, Manila|Barangay|337|3|Santa Cruz|1014
+17|Fiesta, Sta. Cruz North, Manila|Barangay||3|Santa Cruz|1014
+17|Gen. Diokno, Sta. Cruz North, Manila|Barangay|362|3|Santa Cruz|1014
+17|Hipodrome, Sta. Cruz North, Manila|Barangay||3|Santa Cruz|1014
+17|Ilustre, Sta. Cruz North, Manila|Barangay|362|3|Santa Cruz|1014
+17|Ipil, Sta. Cruz North, Manila|Barangay|355|3|Santa Cruz|1014
+17|Jose Abad Santos Ave., Sta. Cruz North, Manila|Barangay|226|3|Santa Cruz|1014
+17|Kalimbas, Sta. Cruz North, Manila|Barangay|317|3|Santa Cruz|1014
+17|Karapatan, Sta. Cruz North, Manila|Barangay|371|3|Santa Cruz|1014
+17|Kusang Loob, Sta. Cruz North, Manila|Barangay|361|3|Santa Cruz|1014
+17|La Loma Cemetery, Sta. Cruz North, Manila|Barangay|118|3|Santa Cruz|1014
+17|Lico, Sta. Cruz North, Manila|Barangay|210|3|Santa Cruz|1014
+17|Lico Ext., Sta. Cruz North, Manila|Barangay|211|3|Santa Cruz|1014
+17|M. Hizon, Sta. Cruz North, Manila|Barangay|337|3|Santa Cruz|1014
+17|M. Natividad, Sta. Cruz North, Manila|Barangay|325|3|Santa Cruz|1014
+17|Makata, Sta. Cruz North, Manila|Barangay|326|3|Santa Cruz|1014
+17|Mount Samat, Sta. Cruz North, Manila|Barangay|206|3|Santa Cruz|1014
+17|New Antipolo, Sta. Cruz North, Manila|Barangay|213|3|Santa Cruz|1014
+17|North Cemetery, Sta. Cruz North, Manila|Barangay|374|3|Santa Cruz|1014
+17|Old Antipolo, Sta. Cruz North, Manila|Barangay|218|3|Santa Cruz|1014
+17|Orani, Sta. Cruz North, Manila|Barangay||3|Santa Cruz|1014
+17|Orion, Sta. Cruz North, Manila|Barangay|347|3|Santa Cruz|1014
+17|Oroquieta, Sta. Cruz North, Manila|Barangay|339|3|Santa Cruz|1014
+17|P. Guevarra, Sta. Cruz North, Manila|Barangay|323|3|Santa Cruz|1014
+17|Pampanga, Sta. Cruz North, Manila|Barangay|375|3|Santa Cruz|1014
+17|Quiroga, Sta. Cruz North, Manila|Barangay|352|3|Santa Cruz|1014
+17|Rivera, Sta. Cruz North, Manila|Barangay||3|Santa Cruz|1014
+17|Rizal Ave., Sta. Cruz North, Manila|Barangay|331|3|Santa Cruz|1014
+17|S. Reyes, Sta. Cruz North, Manila|Barangay||3|Santa Cruz|1014
+17|Sagani, Sta. Cruz North, Manila|Barangay|369|3|Santa Cruz|1014
+17|Sampaguita, Sta. Cruz North, Manila|Barangay|381|3|Santa Cruz|1014
+17|San Lazaro, Sta. Cruz North, Manila|Barangay|337|3|Santa Cruz|1014
+17|Sta. Cruz North, Sta. Cruz North, Manila|Barangay||3|Santa Cruz|1014
+17|Sulu, Sta. Cruz North, Manila|Barangay|323|3|Santa Cruz|1014
+17|Tambunting, Sta. Cruz North, Manila|Barangay|372|3|Santa Cruz|1014
+17|Tayabas, Sta. Cruz North, Manila|Barangay|231|3|Santa Cruz|1014
+17|Tecson, Sta. Cruz North, Manila|Barangay|380|3|Santa Cruz|1014
+17|Tiago, Sta. Cruz North, Manila|Barangay|369|3|Santa Cruz|1014
+17|Tindalo, Sta. Cruz North, Manila|Barangay|219|3|Santa Cruz|1014
+17|indalo Ext., Sta. Cruz North, Manila|Barangay|219|3|Santa Cruz|1014
+17|Tomas Mapua, Sta. Cruz North, Manila|Barangay|314|3|Santa Cruz|1014
+17|Vision, Sta. Cruz North, Manila|Barangay|351|3|Santa Cruz|1014
+17|Yakal, Sta. Cruz North, Manila|Barangay|225|3|Santa Cruz|1014
+17|Tuberia, Sta. Cruz South, Manila|Barangay||3|Santa Cruz|1003
+17|Aguilar, Sta. Cruz South, Manila|Barangay|266|3|Santa Cruz|1003
+17|Alegre, Sta. Cruz South, Manila|Barangay||3|Santa Cruz|1003
+17|Almeda, Sta. Cruz South, Manila|Barangay||3|Santa Cruz|1003
+17|Alonzo, Sta. Cruz South, Manila|Barangay|313|3|Santa Cruz|1003
+17|Alvarado Ext., Sta. Cruz South, Manila|Barangay||3|Santa Cruz|1003
+17|Alvarez, Sta. Cruz South, Manila|Barangay|324|3|Santa Cruz|1003
+17|Alvarez Ext., Sta. Cruz South, Manila|Barangay||3|Santa Cruz|1003
+17|Anacleto, Sta. Cruz South, Manila|Barangay|358|3|Santa Cruz|1003
+17|Apitong, Sta. Cruz South, Manila|Barangay|331|3|Santa Cruz|1003
+17|Bahama, Sta. Cruz South, Manila|Barangay|297|3|Santa Cruz|1003
+17|Bambang, Sta. Cruz South, Manila|Barangay|327|3|Santa Cruz|1003
+17|Benavidez, Sta. Cruz South, Manila|Barangay|260|3|Santa Cruz|1003
+17|Bermuda, Sta. Cruz South, Manila|Barangay|298|3|Santa Cruz|1003
+17|Biak na Bato, Sta. Cruz South, Manila|Barangay||3|Santa Cruz|1003
+17|Bustos, Sta. Cruz South, Manila|Barangay|303|3|Santa Cruz|1003
+17|Dapdap, Sta. Cruz South, Manila|Barangay||3|Santa Cruz|1003
+17|De Guia, Sta. Cruz South, Manila|Barangay||3|Santa Cruz|1003
+17|Dizon, Sta. Cruz South, Manila|Barangay||3|Santa Cruz|1003
+17|Doroteo, Sta. Cruz South, Jose Manila|Barangay|314|3|Santa Cruz|1003
+17|E. Remigio, Sta. Cruz South, Manila|Barangay|321|3|Santa Cruz|1003
+17|Espeleta, Sta. Cruz South, Manila|Barangay|297|3|Santa Cruz|1003
+17|F. De Leon, Sta. Cruz South, Manila|Barangay|257|3|Santa Cruz|1003
+17|F. Torres, Sta. Cruz South, Manila|Barangay|305|3|Santa Cruz|1003
+17|Felix Huertas, Sta. Cruz South, Manila|Barangay|337|3|Santa Cruz|1003
+17|Fernandez, Sta. Cruz South, Manila|Barangay|302|3|Santa Cruz|1003
+17|G. Araneta, Sta. Cruz South, Manila|Barangay||3|Santa Cruz|1003
+17|Gandara, Sta. Cruz South, Manila|Barangay||3|Santa Cruz|1003
+17|Gil Puyat, Sta. Cruz South, Manila|Barangay||3|Santa Cruz|1003
+17|Inferor, Sta. Cruz South, Manila|Barangay||3|Santa Cruz|1003
+17|Ipil, Sta. Cruz South, Manila|Barangay|354|3|Santa Cruz|1003
+17|J. Reyes Mem'l Hospital, Sta. Cruz South, Manila|Barangay||3|Santa Cruz|1003
+17|Kalimbas, Sta. Cruz South, Manila|Barangay|317|3|Santa Cruz|1003
+17|Katubusan, Sta. Cruz South, Manila|Barangay|304|3|Santa Cruz|1003
+17|Kusang Loob, Sta. Cruz South, Manila|Barangay|330|3|Santa Cruz|1003
+17|La Torre, Sta. Cruz South, Manila|Barangay|266|3|Santa Cruz|1003
+17|Lope de Vega, Sta. Cruz South, Manila|Barangay|329|3|Santa Cruz|1003
+17|Luzon, Sta. Cruz South, Manila|Barangay|260|3|Santa Cruz|1003
+17|M. Natividad, Sta. Cruz South, Manila|Barangay|325|3|Santa Cruz|1003
+17|Makata, Sta. Cruz South, Manila|Barangay|361|3|Santa Cruz|1003
+17|Malabon, Sta. Cruz South, Manila|Barangay|336|3|Santa Cruz|1003
+17|Masangkay, Sta. Cruz South, Manila|Barangay|294|3|Santa Cruz|1003
+17|Mayhaligue, Sta. Cruz South, Manila|Barangay||3|Santa Cruz|1003
+17|Milagros, Sta. Cruz South, Manila|Barangay|340|3|Santa Cruz|1003
+17|Narcisa Rizal, Sta. Cruz South, Manila|Barangay||3|Santa Cruz|1003
+17|Okipinja, Sta. Cruz South, Manila|Barangay||3|Santa Cruz|1003
+17|Ongpin, Sta. Cruz South, Manila|Barangay|300|3|Santa Cruz|1003
+17|Oroquieta, Sta. Cruz South, Manila|Barangay|339|3|Santa Cruz|1003
+17|P. Guevarra, Sta. Cruz South, Manila|Barangay|323|3|Santa Cruz|1003
+17|Piedad, Sta. Cruz South, Manila|Barangay||3|Santa Cruz|1003
+17|Quiricada, Sta. Cruz South, Manila|Barangay|331|3|Santa Cruz|1003
+17|Reyes, Sta. Cruz South, Manila|Barangay||3|Santa Cruz|1003
+17|Salazar, Sta. Cruz South, Manila|Barangay|295|3|Santa Cruz|1003
+17|San Bernardo, Sta. Cruz South, Manila|Barangay|313|3|Santa Cruz|1003
+17|San Lazaro Hospital, Sta. Cruz South, Manila|Barangay|331|3|Santa Cruz|1003
+17|San Nicolas, Sta. Cruz South, Manila|Barangay||3|Santa Cruz|1003
+17|Sanchez, Sta. Cruz South, Manila|Barangay||3|Santa Cruz|1003
+17|Santiago, Sta. Cruz South, Manila|Barangay||3|Santa Cruz|1003
+17|Soler, Sta. Cruz South, Manila|Barangay|309|3|Santa Cruz|1003
+17|Sulu, Sta. Cruz South, Manila|Barangay|323|3|Santa Cruz|1003
+17|Tecson, Sta. Cruz South, Manila|Barangay|380|3|Santa Cruz|1003
+17|Tetuan, Sta. Cruz South, Manila|Barangay|298|3|Santa Cruz|1003
+17|Tindalo, Sta. Cruz South, Manila|Barangay|249|3|Santa Cruz|1003
+17|Tomas Mapua, Sta. Cruz South, Manila|Barangay|314|3|Santa Cruz|1003
+17|Tronqued, Sta. Cruz South, Manila|Barangay||3|Santa Cruz|1003
+17|Yakal, Sta. Cruz South, Manila|Barangay|258|3|Santa Cruz|1003
+17|Yebana, Sta. Cruz South, Manila|Barangay|298|3|Santa Cruz|1003
+17|Zacateros, Sta. Cruz South, Manila|Barangay|299|3|Santa Cruz|1003
+17|Sta. Mesa Manila|Barangay|269|6|Santa Mesa|1016
+17|19 De Junio, Tondo North, Manila|Barangay|204|2|Tondo|1013
+17|1st, Tondo North, Manila|Barangay|||Tondo|1013
+17|2nd, Tondo North, Manila|Barangay|||Tondo|1013
+17|3rd, Tondo North, Manila|Barangay|||Tondo|1013
+17|4th, Tondo North, Manila|Barangay|||Tondo|1013
+17|A. Mabini, Tondo North, Manila|Barangay|103|1|Tondo|1013
+17|A.B. Tan, Tondo North, Manila|Barangay|190|2|Tondo|1013
+17|A.R. Cruz, Tondo North, Manila|Barangay|||Tondo|1013
+17|Abucay, Tondo North, Manila|Barangay|||Tondo|1013
+17|Adriano, Tondo North, Manila|Barangay|182|2|Tondo|1013
+17|Aida, Tondo North, Manila|Barangay|101|1|Tondo|1013
+17|Alabat, Tondo North, Manila|Barangay|125|1|Tondo|1013
+17|Alcalde, Tondo North, Manila|Barangay|171|2|Tondo|1013
+17|Almar, Tondo North, Manila|Barangay|||Tondo|1013
+17|Ambrocio, Tondo North, Manila|Barangay|||Tondo|1013
+17|Ampioco, Tondo North, Manila|Barangay|138|1|Tondo|1013
+17|Angat, Tondo North, Manila|Barangay|149|2|Tondo|1013
+17|Antipolo, Tondo North, Manila|Barangay|219|2|Tondo|1013
+17|Arthur, Tondo North, Manila|Barangay|93|1|Tondo|1013
+17|Avellana, Tondo North, Manila|Barangay|184|2|Tondo|1013
+17|B. Santos, Tondo North, Manila|Barangay|34|1|Tondo|1013
+17|Balasan, Tondo North, Manila|Barangay|||Tondo|1013
+17|Banaag, Tondo North, Manila|Barangay|||Tondo|1013
+17|Banahaw, Tondo North, Manila|Barangay|142|1|Tondo|1013
+17|Banal, Tondo North, Manila|Barangay|186|2|Tondo|1013
+17|Batangas, Tondo North, Manila|Barangay|224|2|Tondo|1013
+17|Bato, Tondo North, Manila|Barangay|168|2|Tondo|1013
+17|Benit, Tondo North, Manila|Barangay|||Tondo|1013
+17|Benita, Tondo North, Manila|Barangay|185|2|Tondo|1013
+17|Betran Tondo NorthManila|Barangay|||Tondo|1013
+17|Bo. Roxas, Tondo North, Manila|Barangay|228|2|Tondo|1013
+17|Bonifacio, Tondo North, Manila|Barangay|101|1|Tondo|1013
+17|Bontoc, Tondo North, Manila|Barangay|184|2|Tondo|1013
+17|Bonuga, Tondo North, Manila|Barangay|||Tondo|1013
+17|Buendia, Tondo North, Manila|Barangay|134|1|Tondo|1013
+17|Bugallon, Tondo North, Manila|Barangay|209|2|Tondo|1013
+17|Bukid, Tondo North, Manila|Barangay|135|1|Tondo|1013
+17|Bulacan, Tondo North, Manila|Barangay|175|2|Tondo|1013
+17|C. Dayao, Tondo North, Manila|Barangay|130|2|Tondo|1013
+17|C. Enduque, Tondo North, Manila|Barangay|||Tondo|1013
+17|C. Plaza, Tondo North, Manila|Barangay|||Tondo|1013
+17|Cabo, Tondo North, Manila|Barangay|169|2|Tondo|1013
+17|Caloocan, Tondo North, Manila|Barangay|||Tondo|1013
+17|Carmen, Tondo North, Manila|Barangay|3|1|Tondo|1013
+17|Cavite, Tondo North, Manila|Barangay|168|2|Tondo|1013
+17|Chicky, Tondo North, Manila|Barangay|||Tondo|1013
+17|Cjn Erning, Tondo North, Manila|Barangay|||Tondo|1013
+17|Cjn Vicente, Tondo North, Manila|Barangay|116|1|Tondo|1013
+17|Cjn Villanueva, Tondo North, Manila|Barangay|||Tondo|1013
+17|Clemente, Tondo North, Manila|Barangay|178|2|Tondo|1013
+17|Cora, Tondo North, Manila|Barangay|62|1|Tondo|1013
+17|Corregidor, Tondo North, Manila|Barangay|198|2|Tondo|1013
+17|Cunanan, Tondo North, Manila|Barangay|182|2|Tondo|1013
+17|Dagupan Ext., Tondo North, Manila|Barangay|156|2|Tondo|1013
+17|Dalaga, Tondo North, Manila|Barangay|171|2|Tondo|1013
+17|Del Fierro, Tondo North, Manila|Barangay|174|2|Tondo|1013
+17|Diwata, Tondo North, Manila|Barangay|||Tondo|1013
+17|Evelyn, Tondo North, Manila|Barangay|||Tondo|1013
+17|F. Aguilar, Tondo North, Manila|Barangay|188|2|Tondo|1013
+17|F. Varona, Tondo North, Manila|Barangay|95|1|Tondo|1013
+17|Fernando, Tondo North, Manila|Barangay|||Tondo|1013
+17|Fidel, Tondo North, Manila|Barangay|170|2|Tondo|1013
+17|Francisco, Tondo North, Manila|Barangay|83|1|Tondo|1013
+17|Frilles, Tondo North, Manila|Barangay|182|2|Tondo|1013
+17|Fronda, Tondo North, Manila|Barangay|183|2|Tondo|1013
+17|Fuente, Tondo North, Manila|Barangay|||Tondo|1013
+17|G. Santos, Tondo North, Manila|Barangay|182|2|Tondo|1013
+17|Gabriel, Tondo North, Manila|Barangay|34|1|Tondo|1013
+17|Gagalangin, Tondo North, Manila|Barangay|174|2|Tondo|1013
+17|Galian, Tondo North, Manila|Barangay|||Tondo|1013
+17|Gamban, Tondo North, Manila|Barangay|134|1|Tondo|1013
+17|Gapan, Tondo North, Manila|Barangay|172|2|Tondo|1013
+17|Gen. Lim, Tondo North, Manila|Barangay|127|1|Tondo|1013
+17|Gen. Lukban, Tondo North, Manila|Barangay|183|2|Tondo|1013
+17|Gomez, Tondo North, Manila|Barangay|||Tondo|1013
+17|Guillermo, Tondo North, Manila|Barangay|178|2|Tondo|1013
+17|Hermosa, Tondo North, Manila|Barangay|200|2|Tondo|1013
+17|Herrera, Tondo North, Manila|Barangay|192|2|Tondo|1013
+17|Humabon, Tondo North, Manila|Barangay|103|1|Tondo|1013
+17|Ibarra, Tondo North, Manila|Barangay|36|1|Tondo|1013
+17|Ilaw, Tondo North, Manila|Barangay|145|1|Tondo|1013
+17|Infanta, Tondo North, Manila|Barangay|133|1|Tondo|1013
+17|J. Luna, Tondo North, Manila|Barangay|||Tondo|1013
+17|J.C. Cruz, Tondo North, Manila|Barangay|||Tondo|1013
+17|J.L. Escoda, Tondo North, Manila|Barangay|||Tondo|1013
+17|J.P. Rizal, Tondo North, Manila|Barangay|183|2|Tondo|1013
+17|Jacinto, Tondo North, Manila|Barangay|100|1|Tondo|1013
+17|Javier, Tondo North, Manila|Barangay|183|2|Tondo|1013
+17|Kalakal, Tondo North, Manila|Barangay|126|1|Tondo|1013
+17|Kalayaan, Tondo North, Manila|Barangay|184|2|Tondo|1013
+17|Kanluran, Tondo North, Manila|Barangay|128|1|Tondo|1013
+17|Karilagan, Tondo North, Manila|Barangay|184|2|Tondo|1013
+17|Kawit, Tondo North, Manila|Barangay|177|2|Tondo|1013
+17|Lacson, Tondo North, Manila|Barangay|96|1|Tondo|1013
+17|Laguna Ext., Tondo North, Manila|Barangay|153|2|Tondo|1013
+17|Lallana, Tondo North, Manila|Barangay|95|1|Tondo|1013
+17|Laong Nasa, Tondo North, Manila|Barangay|153|2|Tondo|1013
+17|Laxamana, Tondo North, Manila|Barangay|||Tondo|1013
+17|Limay, Tondo North, Manila|Barangay|202|2|Tondo|1013
+17|Lukbati, Tondo North, Manila|Barangay|||Tondo|1013
+17|M. Quizon, Tondo North, Manila|Barangay|||Tondo|1013
+17|Magdaragat, Tondo North, Manila|Barangay|||Tondo|1013
+17|Maginoo, Tondo North, Manila|Barangay|103|1|Tondo|1013
+17|Malaya, Tondo North, Manila|Barangay|126|1|Tondo|1013
+17|Maliklik, Tondo North, Manila|Barangay|33|1|Tondo|1013
+17|Malvar, Tondo North, Manila|Barangay|93|1|Tondo|1013
+17|Marasigan, Tondo North, Manila|Barangay|||Tondo|1013
+17|Mary Ann, Tondo North, Manila|Barangay|127|1|Tondo|1013
+17|Mendoza, Tondo North, Manila|Barangay|177|2|Tondo|1013
+17|Mirasol, Tondo North, Manila|Barangay|135|1|Tondo|1013
+17|Moderna, Tondo North, Manila|Barangay|146|1|Tondo|1013
+17|Molave, Tondo North, Manila|Barangay|228|2|Tondo|1013
+17|Morong, Tondo North, Manila|Barangay|198|2|Tondo|1013
+17|Narra, Tondo North, Manila|Barangay|248|2|Tondo|1013
+17|Nav, Tondo North, Manila|Barangay|||Tondo|1013
+17|Nelsa, Tondo North, Manila|Barangay|112|1|Tondo|1013
+17|Nenette, Tondo North, Manila|Barangay|||Tondo|1013
+17|Nepomuceno, Tondo North, Manila|Barangay|94|1|Tondo|1013
+17|New Antipolo, Tondo North, Manila|Barangay|214|2|Tondo|1013
+17|Obrero, Tondo North, Manila|Barangay|189|2|Tondo|1013
+17|Old Antipolo, Tondo North, Manila|Barangay|218|2|Tondo|1013
+17|Old Torres, Tondo North, Manila|Barangay|154|2|Tondo|1013
+17|Osorio, Tondo North, Manila|Barangay|97|1|Tondo|1013
+17|P. Daganan, Tondo North, Manila|Barangay|182|2|Tondo|1013
+17|Pag-asa Ext., Tondo North, Manila|Barangay|183|2|Tondo|1013
+17|Pag-ibig, Tondo North, Manila|Barangay|184|2|Tondo|1013
+17|Pagsilang, Tondo North, Manila|Barangay|||Tondo|1013
+17|Pampanga, Tondo North, Manila|Barangay|179|2|Tondo|1013
+17|Pascual, Tondo North, Manila|Barangay|182|2|Tondo|1013
+17|Paste, Tondo North, Manila|Barangay|||Tondo|1013
+17|Paterno, Tondo North, Manila|Barangay|204|2|Tondo|1013
+17|Patria, Tondo North, Manila|Barangay|135|1|Tondo|1013
+17|Peralta, Tondo North, Manila|Barangay|||Tondo|1013
+17|Pilar, Tondo North, Manila|Barangay|198|2|Tondo|1013
+17|Plansa, Tondo North, Manila|Barangay|||Tondo|1013
+17|Quidote, Tondo North, Manila|Barangay|||Tondo|1013
+17|R. Fernandez, Tondo North, Manila|Barangay|168|2|Tondo|1013
+17|R. Nicasio, Tondo North, Manila|Barangay|126|1|Tondo|1013
+17|R. Vargas, Tondo North, Manila|Barangay|216|2|Tondo|1013
+17|Ramirez, Tondo North, Manila|Barangay|||Tondo|1013
+17|Ricardo, Tondo North, Manila|Barangay|178|2|Tondo|1013
+17|Rodriguez, Tondo North, Manila|Barangay|140|1|Tondo|1013
+17|Romana, Tondo North, Manila|Barangay|96|1|Tondo|1013
+17|Rosalina, Tondo North, Manila|Barangay|183|1|Tondo|1013
+17|Rosario, Tondo North, Manila|Barangay|||Tondo|1013
+17|S. De Jesus, Tondo North, Manila|Barangay|127|1|Tondo|1013
+17|S. Del Rosario, Tondo North, Manila|Barangay|171|2|Tondo|1013
+17|Salonga, Tondo North, Manila|Barangay|131|1|Tondo|1013
+17|San Pedro, Tondo North, Manila|Barangay|18|1|Tondo|1013
+17|San Rafael Vill., Tondo North, Manila|Barangay|127|1|Tondo|1013
+17|Santiago, Tondo North, Manila|Barangay|256|2|Tondo|1013
+17|Sikat, Tondo North, Manila|Barangay|126|1|Tondo|1013
+17|Silangan, Tondo North, Manila|Barangay|126|1|Tondo|1013
+17|Simoun, Tondo North, Manila|Barangay|||Tondo|1013
+17|Sofia, Tondo North, Manila|Barangay|146|1|Tondo|1013
+17|Solis, Tondo North, Manila|Barangay|204|2|Tondo|1013
+17|Spkr. R. Romualdez, Tondo North, Manila|Barangay|||Tondo|1013
+17|Sta. Fe, Tondo North, Manila|Barangay|118|1|Tondo|1013
+17|Sta. Maria, Tondo North, Manila|Barangay|82|1|Tondo|1013
+17|T. earnshaw, Tondo North, Manila|Barangay|||Tondo|1013
+17|Taladtad, Tondo North, Manila|Barangay|182|2|Tondo|1013
+17|Tayabas, Tondo North, Manila|Barangay|231|2|Tondo|1013
+17|Teodoro, Tondo North, Manila|Barangay|16|1|Tondo|1013
+17|Tirso Cruz, Tondo North, Manila|Barangay|||Tondo|1013
+17|Torres High School, Tondo North, Manila|Barangay|173|2|Tondo|1013
+17|Trinidad, Tondo North, Manila|Barangay|92|1|Tondo|1013
+17|Tuambacan, Tondo North, Manila|Barangay|||Tondo|1013
+17|Ugbo, Tondo North, Manila|Barangay|99|1|Tondo|1013
+17|V. Serrano, Tondo North, Manila|Barangay|||Tondo|1013
+17|Velasquez, Tondo North, Manila|Barangay|93|1|Tondo|1013
+17|Victoria, Tondo North, Manila|Barangay|183|2|Tondo|1013
+17|Villafojas, Tondo North, Manila|Barangay|147|1|Tondo|1013
+17|Vitas, Tondo North, Manila|Barangay|99|1|Tondo|1013
+17|Vizcaya, Tondo North, Manila|Barangay|||Tondo|1013
+17|Yangco, Tondo North, Manila|Barangay|168|2|Tondo|1013
+17|Younger, Tondo North, Manila|Barangay|140|1|Tondo|1013
+17|Aeta, Tondo South, Manila|Barangay|151|2|Tondo|1012
+17|Aguila, Tondo South, Manila|Barangay|62|1|Tondo|1012
+17|Alaya, Tondo South, Manila|Barangay|69|1|Tondo|1012
+17|Amarlanhague, Tondo South, Manila|Barangay|78|1|Tondo|1012
+17|Arnold, Tondo South, Manila|Barangay|15|1|Tondo|1012
+17|Arueross, Tondo South, Manila|Barangay|233|2|Tondo|1012
+17|Balimbing, Tondo South, Manila|Barangay|123|1|Tondo|1012
+17|Baltazar, Tondo South, Manila|Barangay|77|1|Tondo|1012
+17|Banaba, Tondo South, Manila|Barangay|72|1|Tondo|1012
+17|Bucaneg, Tondo South, Manila|Barangay|54|1|Tondo|1012
+17|Buko, Tondo South, Manila|Barangay|123|1|Tondo|1012
+17|Bulacan, Tondo South, Manila|Barangay|110|1|Tondo|1012
+17|Bulaklak, Tondo South, Manila|Barangay|51|1|Tondo|1012
+17|Cabesas, Tondo South, Manila|Barangay|54|1|Tondo|1012
+17|Cambas, Tondo South, Manila|Barangay|45|1|Tondo|1012
+17|Chesa, Tondo South, Manila|Barangay|119|1|Tondo|1012
+17|Concha, Tondo South, Manila|Barangay|120|1|Tondo|1012
+17|Corcuera, Tondo South, Manila|Barangay|77|1|Tondo|1012
+17|Cristobal, Tondo South, Manila|Barangay|120|1|Tondo|1012
+17|Dama de Noche, Tondo South, Manila|Barangay|47|1|Tondo|1012
+17|Dandan, Tondo South, Manila|Barangay|89|1|Tondo|1012
+17|Deodato, Tondo South, Manila|Barangay|53|1|Tondo|1012
+17|Duhat, Tondo South, Manila|Barangay|116|1|Tondo|1012
+17|Endaya, Tondo South, Manila|Barangay|55|1|Tondo|1012
+17|Esguerra, Tondo South, Manila|Barangay|89|1|Tondo|1012
+17|Fajardo, Tondo South, Manila|Barangay|58|1|Tondo|1012
+17|Francisco, Tondo South, Manila|Barangay|198|2|Tondo|1012
+17|Franco, Tondo South, Manila|Barangay|154/151|2|Tondo|1012
+17|Fullon, Tondo South, Manila|Barangay|53|1|Tondo|1012
+17|Gabriela, Tondo South, Manila|Barangay|53|1|Tondo|1012
+17|Garcia, Tondo South, Manila|Barangay|123|1|Tondo|1012
+17|Gatmaitan, Tondo South, Manila|Barangay|60|1|Tondo|1012
+17|Geron, Tondo South, Manila|Barangay|151|2|Tondo|1012
+17|Guyabano, Tondo South, Manila|Barangay|||Tondo|1012
+17|Herbosa Ext., Tondo South, Manila|Barangay|107/108|2|Tondo|1012
+17|Hernandez, Tondo South, Manila|Barangay|69|1|Tondo|1012
+17|Imelda, Tondo South, Manila|Barangay|107|1|Tondo|1012
+17|Inocencio, Tondo South, Manila|Barangay|147|2|Tondo|1012
+17|J. Bassa, Tondo South, Manila|Barangay|50|1|Tondo|1012
+17|J. Nicols, Tondo South, Manila|Barangay|5|1|Tondo|1012
+17|Jonathan, Tondo South, Manila|Barangay|55|1|Tondo|1012
+17|Kabangis, Tondo South, Manila|Barangay|92|1|Tondo|1012
+17|Kapanding, Tondo South, Manila|Barangay|||Tondo|1012
+17|Lacson, Tondo South, Manila|Barangay|108|1|Tondo|1012
+17|Laurel, Tondo South, Manila|Barangay|119|1|Tondo|1012
+17|Lilibeth, Tondo South, Manila|Barangay|55|1|Tondo|1012
+17|Linampas, Tondo South, Manila|Barangay|50|1|Tondo|1012
+17|Liwayway, Tondo South, Manila|Barangay|111|1|Tondo|1012
+17|Lundayan, Tondo South, Manila|Barangay|95|1|Tondo|1012
+17|Madrid Ext., Tondo South, Manila|Barangay|45|1|Tondo|1012
+17|Magalang, Tondo South, Manila|Barangay|108|1|Tondo|1012
+17|Magsaysay, Tondo South, Manila|Barangay|120|1|Tondo|1012
+17|Maharlika, Tondo South, Manila|Barangay|85|1|Tondo|1012
+17|Malong, Tondo South, Manila|Barangay|50|1|Tondo|1012
+17|Mata, Tondo South, Manila|Barangay|111|1|Tondo|1012
+17|Matiisin, Tondo South, Manila|Barangay|33|1|Tondo|1012
+17|Mejorada, Tondo South, Manila|Barangay|59|1|Tondo|1012
+17|Mel Alcalde, Tondo South, Manila|Barangay|84|1|Tondo|1012
+17|N. Zamora, Tondo South, Manila|Barangay|52|1|Tondo|1012
+17|Namabar, Tondo South, Manila|Barangay|||Tondo|1012
+17|Nao, Tondo South, Manila|Barangay|34|1|Tondo|1012
+17|Nicodemus, Tondo South, Manila|Barangay|59|1|Tondo|1012
+17|Nijaga, Tondo South, Manila|Barangay|65|1|Tondo|1012
+17|North Port, Tondo South, Manila|Barangay|110|1|Tondo|1012
+17|November, Tondo South, Manila|Barangay|||Tondo|1012
+17|Omena, Tondo South, Manila|Barangay|85|1|Tondo|1012
+17|Pacheco, Tondo South, Manila|Barangay|66|1|Tondo|1012
+17|Panday Pira, Tondo South, Manila|Barangay|89|1|Tondo|1012
+17|Pavia, Tondo South, Manila|Barangay|51|1|Tondo|1012
+17|Penalosa, Tondo South, Manila|Barangay|60|1|Tondo|1012
+17|Perla A, Tondo South, Manila|Barangay|58|1|Tondo|1012
+17|Perla B, Tondo South, Manila|Barangay|65|1|Tondo|1012
+17|Perla C, Tondo South, Manila|Barangay|74|1|Tondo|1012
+17|Pilapil, Tondo South, Manila|Barangay|59|1|Tondo|1012
+17|Pitong Gatang, Tondo South, Manila|Barangay|60|1|Tondo|1012
+17|Quezon, Tondo South, Manila|Barangay|116|1|Tondo|1012
+17|Quirino, Tondo South, Manila|Barangay|112|1|Tondo|1012
+17|R. Almario, Tondo South, Manila|Barangay|52|1|Tondo|1012
+17|Ricafort, Tondo South, Manila|Barangay|51|1|Tondo|1012
+17|San Jose, Tondo South, Manila|Barangay|107|1|Tondo|1012
+17|Sevilla Ext., Tondo South, Manila|Barangay|73|1|Tondo|1012
+17|Sta. Fe, Tondo South, Manila|Barangay|96|1|Tondo|1012
+17|Sta. Maria, Tondo South, Manila|Barangay|57|1|Tondo|1012
+17|Sta. Teresita, Tondo South, Manila|Barangay|94|1|Tondo|1012
+17|Sto. Cristo, Tondo South, Manila|Barangay|269|2|Tondo|1012
+17|Sto. Niño, Tondo South, Manila|Barangay|107|1|Tondo|1012
+17|Tioko, Tondo South, Manila|Barangay|91|1|Tondo|1012
+17|Ermita P.O. Boxes, Manila - P. O. Boxes|Barangay|703|5|Ermita|1045
+17|Sta Cruz P.O. Boxes, Manila - P. O. Boxes|Barangay|350|3|Sta. Cruz|1040
+17|Sta. Mesa P.O. Boxes, Manila - P. O. Boxes|Barangay|581|6|Sta. Mesa|1035
+17|Asian Dev’t. Bank, Manila - Big Users|Barangay||||980
+17|Ateneo De Mla. Univ., Manila - Big Users|Barangay||||917
+17|Bureau Of Plant Industry, Manila - Big Users|Barangay||||912
+17|Caltex (Philippines), Manila - Big Users|Barangay||||926
+17|China Banking Corp., Manila - Big Users|Barangay||||925
+17|De La Salle University, Manila - Big Users|Barangay||||922
+17|Dept. Of Justice, Manila - Big Users|Barangay||||970
+17|Dept. Of Labor & Emplymt., Manila - Big Users|Barangay||||910
+17|Don Stewart Evangelic Assn., Manila - Big Users|Barangay||||923
+17|Far East Broadcasting Corp., Manila - Big Users|Barangay||||902
+17|Filipino Star, Manila - Big Users|Barangay||||905
+17|Fil-japan Shipping Co., Manila - Big Users|Barangay||||918
+17|In-rl. Correspondence Inst., Manila - Big Users|Barangay||||915
+17|Int’l. Rice Research Inst., Manila - Big Users|Barangay||||960
+17|Manila Bulletin, Manila - Big Users|Barangay||||900
+17|Manila Hilton, Manila - Big Users|Barangay||||903
+17|Manila Hotel, Manila - Big Users|Barangay||||913
+17|Manila Medical Center, Manila - Big Users|Barangay||||906
+17|Manila Midtown Hotel, Manila - Big Users|Barangay||||950
+17|Midland Hotel, Manila - Big Users|Barangay||||904
+17|Nat’l. Census & Stat. Off., Manila - Big Users|Barangay||||911
+17|Pan-fil. Shipping, Manila - Big Users|Barangay||||908
+17|Phil. Campus Crusade, Manila - Big Users|Barangay||||928
+17|Phil. National Bank, Manila - Big Users|Barangay||||940
+17|Phil. Plaza Hotel, Manila - Big Users|Barangay||||921
+17|Phil. Refining Co., Manila - Big Users|Barangay||||914
+17|Phil. Union College, Manila - Big Users|Barangay||||901
+17|Phil. Veterans Affair Off., Manila - Big Users|Barangay||||927
+17|Philamlife, Manila - Big Users|Barangay||||990
+17|Radio Veritas, Manila - Big Users|Barangay||||916
+17|San Miguel Corp., Manila - Big Users|Barangay||||907
+17|Summer Inst. Of Linguistic, Manila - Big Users|Barangay||||909
+17|Sunbursts Publications, Manila - Big Users|Barangay||||920
+17|Unilever (Phil. Refining Go.), Manila - Big Users|Barangay||||914
+17|Us Embassy, Manila - Big Users|Barangay||||930
+17|Western Police Force, Manila - Big Users|Barangay||||919
+17|World Map, Manila - Big Users|Barangay||||924
+17|Bagong Nayon, Marikina|Barangay||||1820
+17|Barangka, Marikina|Barangay||1||1803
+17|Cogeo, Marikina|Barangay||||1820
+17|Concepcion 1 Marikina|Barangay||2||1807
+17|Concepcion 2 Marikina|Barangay||2||1811
+17|Cupang, Marikina|Barangay||||1820
+17|Industrial Valley, Marikina|Barangay||1||1802
+17|Jesus De La Pena, Marikina|Barangay||1||1804
+17|Langhaya, Marikina|Barangay||||1820
+17|Malanday, Marikina|Barangay||1||1805
+17|Mambagat, Marikina|Barangay||||1820
+17|Marikina City Post Office, Marikina|Barangay||1||1800
+17|Marikina Heights, Marikina|Barangay||2||1810
+17|Mayamot, Marikina|Barangay||||1820
+17|Nangka, Marikina|Barangay||2||1808
+17|North/West of Marikina River, Marikina|Barangay||1||1806
+17|Parang, Marikina|Barangay||2||1809
+17|San Roque-Calumpang, Marikina|Barangay||1||1801
+17|Tañong, Marikina|Barangay||1||1803
+17|Ayala Alabang P.O. Boxes, Muntinlupa|Barangay||2||1799
+17|Ayala Alabang Subdivision, Muntinlupa|Barangay||2||1780
+17|Bayanan/Putatan, Muntinlupa|Barangay||1||1772
+17|Bule/Cupang, Muntinlupa|Barangay||2||1771
+17|Muntinlupa City Post Office, Muntinlupa|Barangay||2||1770
+17|Pearl Heights, Muntinlupa|Barangay||1||1775
+17|Pleasant Village, Muntinlupa|Barangay||2||1777
+17|Poblacion, Muntinlupa|Barangay||1||1776
+17|Susana Heights, Muntinlupa|Barangay||1||1774
+17|Tunasan, Muntinlupa|Barangay||1||1773
+17|Fish Market, Navotas|Barangay||1||1411
+17|Isla De Cocomo, Navotas|Barangay||1||1412
+17|Kapitbahayan East, Navotas|Barangay||1||1413
+17|Kaunlaran Village, Navotas|Barangay||1||1409
+17|Navotas, Navotas|Barangay||1||1485
+17|Tangos, Navotas|Barangay||2||1489
+17|Tanza, Navotas|Barangay||2||1490
+17|Aeropark Subdivision, Parañaque|Barangay||2||1714
+17|Baclaran, Parañaque|Barangay||1||1702
+17|Better Living Subdivision, Parañaque|Barangay||2||1711
+17|BF Homes 1, Parañaque|Barangay||2||1720
+17|BF Homes 2, Parañaque|Barangay||2||1718
+17|Executive Heights Subd., Parañaque|Barangay||2||1710
+17|Ireneville II, Parañaque|Barangay||2||1714
+17|Ireneville Subdivision I & II, Parañaque|Barangay||2||1719
+17|Manila Memorial Park, Parañaque|Barangay||2||1717
+17|Marina Heights, Parañaque|Barangay||2||1703
+17|Maywood I, Parañaque|Barangay||2||1719
+17|Maywood Village II, Parañaque|Barangay||2||1716
+17|Merville Park, Parañaque|Barangay||2||1709
+17|Miramar Subdivision, Parañaque|Barangay||2||1712
+17|Moonwalk, Parañaque|Barangay||2||1709
+17|Multinational Village, Parañaque|Barangay||2||1708
+17|Ninoy Aquino Int’l. Airport, Parañaque|Barangay||||1705
+17|Paranaque City Post Office, Parañaque|Barangay||1||1700
+17|Pulo, Parañaque|Barangay||1||1706
+17|San Antonio Valley 11 & 12 Parañaque|Barangay||2||1707
+17|San Antonio Valley I, Parañaque|Barangay||2||1715
+17|South Admiral Village, Parañaque|Barangay||2||1709
+17|Sto. Nino, Parañaque|Barangay||1||1704
+17|Tambo, Parañaque|Barangay||1||1701
+17|United Paranaque Subd., Parañaque|Barangay||2||1713
+17|Domestic Airport Po, Pasay|Barangay||||1301
+17|Manila Bay (Reclamation), Pasay|Barangay||||1308
+17|Pasay City Post Office, Pasay|Barangay||||1300
+17|PICC (Reclamation Area), Pasay|Barangay||||1307
+17|San Isidro, Pasay|Barangay||2||1306
+17|San Jose, Pasay|Barangay||1||1305
+17|San Rafael, Pasay|Barangay||10||1302
+17|San Roque, Pasay|Barangay||2||1303
+17|Santa Clara, Pasay|Barangay||2||1304
+17|Villamor Airbase, Pasay|Barangay||||1309
+17|Caniogan, Pasig|Barangay||1||1606
+17|Green Park Vilage, Pasig|Barangay||2||1612
+17|Kapitolyo, Pasig|Barangay||1||1603
+17|Manggahan, Pasig|Barangay||2||1611
+17|Maybunga, Pasig|Barangay||2||1607
+17|Ortigas Post Office, Pasig|Barangay||1||1605
+17|Pasig City Post Office, Pasig|Barangay||1||1600
+17|Pinagbuhatan, Pasig|Barangay||2||1602
+17|Rosario, Pasig|Barangay||2||1609
+17|San Joaquin, Pasig|Barangay||1||1601
+17|Santolan, Pasig|Barangay||2||1610
+17|Sta. Lucia, Pasig|Barangay||2||1608
+17|Ugong, Pasig|Barangay||1||1604
+17|Aguho, Pateros|Barangay||||1620
+17|Sta. Ana, Pateros|Barangay||||1621
+17|Araneta Center P.O. Boxes, Quezon - P.O. Boxes|Barangay||3||1135
+17|Broadway Center P.O. Boxes, Quezon - P.O. Boxes|Barangay||3||1141
+17|Murphy Dist. P.O. Boxes, Quezon - P.O. Boxes|Barangay||3||1138
+17|Novaliches P.O. Boxes, Quezon - P.O. Boxes|Barangay||5||1147
+17|UP P.O. Boxes, Quezon - P.O. Boxes|Barangay||4||1144
+17|Alicia, Quezon City|Barangay||1||1105
+17|Amihan, Quezon City|Barangay||3||1102
+17|Apolonio Samson, Quezon City|Barangay||6||1106
+17|Baesa, Quezon City|Barangay||6||1106
+17|Bagbag, Quezon City|Barangay||5||1116
+17|Bagumbayan, Quezon City|Barangay||3||1110
+17|Bagumbuhay, Quezon City|Barangay||3||1109
+17|Bagong Lipunan, Quezon City|Barangay||4||1111
+17|Bagong Pag-asa, Quezon City|Barangay||1||1105
+17|Bagong Silangan, Quezon City|Barangay||2||1119
+17|Bahay Toro, Quezon City|Barangay||1||1106
+17|Balingasa, Quezon City|Barangay||1||1115
+17|Balintawak, Quezon City|Barangay||1||1106
+17|Batasan Hills, Quezon City|Barangay||2||1126
+17|Bayanihan, Quezon City|Barangay||3||1109
+17|Bf Homes, Quezon City|Barangay||2||1120
+17|Blue Ridge, Quezon City|Barangay||3||1109
+17|Botocan, Quezon City|Barangay||4||1101
+17|Bungad, Quezon City|Barangay||1||1105
+17|Camp Aguinaldo, Quezon City|Barangay||3||1110
+17|Capitol Hills/Park, Quezon City|Barangay||3||1126
+17|Capri, Quezon City|Barangay||5||1117
+17|Central, Quezon City|Barangay||6||1100
+17|Claro, Quezon City|Barangay||3||1102
+17|Commonwealth, Quezon City|Barangay||2||1121
+17|Crame, Quezon City|Barangay||4||1111
+17|Cubao, Quezon City|Barangay||3 & 4||1109
+17|Culiat, Quezon City|Barangay||6||1128
+17|Damar, Quezon City|Barangay||1||1115
+17|Damayan, Quezon City|Barangay||1||1104
+17|Damayan Lagi, Quezon City|Barangay||4||1112
+17|Damong Maliit, Quezon City|Barangay||5||1123
+17|Del Monte, Quezon City|Barangay||1||1105
+17|Diliman, Quezon City|Barangay||1||1101
+17|Dioquino Zobel, Quezon City|Barangay||3||1109
+17|Doña Imelda, Quezon City|Barangay||4||1113
+17|Don Manuel, Quezon City|Barangay||4||1113
+17|Dona Aurora, Quezon City|Barangay||4||1113
+17|Doña Faustina Subd, Quezon City|Barangay||6||1125
+17|Doña Josefa, Quezon City|Barangay||4||1113
+17|Duyan-duyan, Quezon City|Barangay||3||1102
+17|E. Rodriguez., Quezon City|Barangay||3||1102
+17|Escopa, Quezon City|Barangay||3||1109
+17|Fairview, Quezon City|Barangay||5||1118
+17|Fairview North, Quezon City|Barangay||5||1121
+17|Fairview South, Quezon City|Barangay||5||1122
+17|Gantol, Quezon City|Barangay||4||1113
+17|Gintong Silahis, Quezon City|Barangay||1||1114
+17|Gulod, Quezon City|Barangay||5||1117
+17|Holy Spirit, Quezon City|Barangay||2||1127
+17|Horseshoe, Quezon City|Barangay||4||1112
+17|Immaculate Concepcion, Quezon City|Barangay||4||1111
+17|Kaligayahan, Quezon City|Barangay||5||1124
+17|Kalusugan, Quezon City|Barangay||4||1112
+17|Kamias, Quezon City|Barangay||3||1102
+17|Kamuning, Quezon City|Barangay||4||1103
+17|Katipunan, Quezon City|Barangay||1||1105
+17|Kaunlaran, Quezon City|Barangay||4||1111
+17|Kristong Hari, Quezon City|Barangay||4||1112
+17|Krus Na Ligas, Quezon City|Barangay||4||1101
+17|La Loma, Quezon City|Barangay||1||1114
+17|Langing Handa, Quezon City|Barangay||4||1103
+17|Libis, Quezon City|Barangay||3||1110
+17|Lourdes, Quezon City|Barangay||1||1114
+17|Loyola Heights, Quezon City|Barangay||3||1108
+17|Maharlika, Quezon City|Barangay||1||1114
+17|Malaya, Quezon City|Barangay||4||1101
+17|Mangga, Quezon City|Barangay||3||1109
+17|Manresa, Quezon City|Barangay||1||1115
+17|Mariana, Quezon City|Barangay||4||1112
+17|Mariblo, Quezon City|Barangay||1||1104
+17|Marilag, Quezon City|Barangay||3||1109
+17|Masagana, Quezon City|Barangay||3||1109
+17|Masambong, Quezon City|Barangay||1||1115
+17|Matalahib, Quezon City|Barangay||1||1114
+17|Matandang Balara, Quezon City|Barangay||3||1119
+17|Milagrosa, Quezon City|Barangay||3||1109
+17|Nagkaisang Nayon, Quezon City|Barangay||5||1125
+17|Kaunlaran, Quezon City|Barangay||4||1104
+17|New Era, Quezon City|Barangay||6||1107
+17|Novaliches Proper, Quezon City|Barangay||5||1121
+17|Obrero, Quezon City|Barangay||4||1103
+17|Old Capitol Site, Quezon City|Barangay||4||1101
+17|Paang Bundok, Quezon City|Barangay||1||1114
+17|Pag-ibig Sa Nayon, Quezon City|Barangay||1||1115
+17|Paligsahan, Quezon City|Barangay||4||1103
+17|Paltok, Quezon City|Barangay||1||1105
+17|Pansol, Quezon City|Barangay||3||1108
+17|Paraiso, Quezon City|Barangay||1||1104
+17|Pasong Putik, Quezon City|Barangay||5||1118
+17|Pasong Tamo, Quezon City|Barangay||6||1107
+17|Payatas, Quezon City|Barangay||2||1119
+17|Phil-am, Quezon City|Barangay||1||1104
+17|Pinagkaisahan, Quezon City|Barangay||4||1111
+17|Pinyahan, Quezon City|Barangay||4||1100
+17|Project 4, Quezon City|Barangay||3||1109
+17|Project 6, Quezon City|Barangay||1||1100
+17|Project 7, Quezon City|Barangay||1||1105
+17|Project 8, Quezon City|Barangay||6||1106
+17|Quezon City Post Office, Quezon City|Barangay||1||1100
+17|Quirino Dist. (Proj. 2 & 3), Quezon City|Barangay||3||1102
+17|Ramon Magsaysay, Quezon City|Barangay||1||1105
+17|Roxas District, Quezon City|Barangay||4||1103
+17|Sacred Heart, Quezon City|Barangay||4||1103
+17|Salumbato, Quezon City|Barangay||6||1106
+17|Salvacion, Quezon City|Barangay||1||1114
+17|San Agustin, Quezon City|Barangay||5||1117
+17|San Antonio, Quezon City|Barangay||1||1105
+17|San Bartolome, Quezon City|Barangay||5||1116
+17|San Isidro, Quezon City|Barangay||4||1113
+17|San Isidro Labrador, Quezon City|Barangay||1||1114
+17|San Jose, Quezon City|Barangay||1||1115
+17|San Roque, Quezon City|Barangay||3||1109
+17|San Vicente, Quezon City|Barangay||4||1101
+17|Sangandaan, Quezon City|Barangay||6||1116
+17|Santa Cruz, Quezon City|Barangay||1||1104
+17|Santa Lucia, Quezon City|Barangay||5||1117
+17|Santa Monica, Quezon City|Barangay||5||1117
+17|Santa Teresita, Quezon City|Barangay||1||1114
+17|Sauyo, Quezon City|Barangay||6||1116
+17|Sienna, Quezon City|Barangay||1||1114
+17|Sikatuna Village, Quezon City|Barangay||4||1101
+17|Silangan, Quezon City|Barangay||3||1102
+17|Socorro, Quezon City|Barangay||3||1109
+17|South Triangle, Quezon City|Barangay||4||1103
+17|St. Ignatius, Quezon City|Barangay||3||1110
+17|St. Martin De Porres, Quezon City|Barangay||4||1111
+17|St. Peter, Quezon City|Barangay||1||1114
+17|Sto. Cristo, Quezon City|Barangay||1||1105
+17|Sto. Nino, Quezon City|Barangay||4||1113
+17|Tagumpay, Quezon City|Barangay||3||1109
+17|Talampas, Quezon City|Barangay||3||1110
+17|Talayan, Quezon City|Barangay||1||1104
+17|Talipapa, Quezon City|Barangay||6||1116
+17|Tandang Sora, Quezon City|Barangay||6||1116
+17|Tatalon, Quezon City|Barangay||4||1113
+17|Teachers Village, Quezon City|Barangay||4||1101
+17|Ugong Norte, Quezon City|Barangay||3||1110
+17|Unang Sigaw, Quezon City|Barangay||6||1106
+17|U.P. Post Office, Quezon City|Barangay||4||1101
+17|U.P. Village, Quezon City|Barangay||4||1101
+17|Valencia, Quezon City|Barangay||4||1112
+17|Vasra, Quezon City|Barangay||1||1128
+17|Veterans Village, Quezon City|Barangay||4||1105
+17|Villa Maria Clara, Quezon City|Barangay||3||1109
+17|Violago Homes, Quezon City|Barangay||6||1120
+17|West Triangle, Quezon City|Barangay||1||1104
+17|White Plains, Quezon City|Barangay||3||1110
+17|Eisenhower-crame, San Juan|Barangay||2||1504
+17|Greenhills North, San Juan|Barangay||2||1503
+17|Greenhills Post Office, San Juan|Barangay||2||1502
+17|San Juan City City Post Office, San Juan|Barangay||1||1500
+17|Bay Breeze Executive Village, Taguig|Barangay||1||1636
+17|Bicutan, Taguig|Barangay||2||1631
+17|Bicutan Lower, Taguig|Barangay||1||1632
+17|Bicutan Upper, Taguig|Barangay||2||1633
+17|Bicutan Western, Taguig|Barangay||2||1630
+17|Ligid, Taguig|Barangay||1||1638
+17|Nichols Mckinley, Taguig|Barangay||2||1634
+17|Tuktukan, Taguig|Barangay||1||1637
+17|Arkong Bato, Valenzuela|Barangay||1||1444
+17|Rincon, Valenzuela|Barangay||1||1444
+17|Pasolo, Valenzuela|Barangay||1||1444
+17|Mala, Valenzuela|Barangay||1||1444
+17|Balangkas, Valenzuela|Barangay||1||1444
+17|Caloong, Valenzuela|Barangay||1||1445
+17|Dalandan, Valenzuela|Barangay||1||1443
+17|West Canumay, Valenzuela|Barangay||1||1443
+17|East Canumay, Valenzuela|Barangay||1||1447
+17|Lawang Bato, Valenzuela|Barangay||1||1447
+17|Punturin, Valenzuela|Barangay||1||1447
+17|Fortune Village, Valenzuela|Barangay||2||1442
+17|Paso de Blas, Valenzuela|Barangay||2||1442
+17|Karuhatan, Valenzuela|Barangay||2||1441
+17|Lingunan, Valenzuela|Barangay||1||1446
+17|Mapulang Lupa, Valenzuela|Barangay||2||1448
+17|Valenzuela City Post Office-Malinta, Valenzuela|Barangay||1||1440
+17|Valenzuela P.O. Boxes, Valenzuela|Barangay||1||1469
+17|Far East Broadcasting Corp., Valenzuela - Big Users|Barangay||||560
+17|Febias Col. of the Bible, Valenzuela - Big Users|Barangay||||550
